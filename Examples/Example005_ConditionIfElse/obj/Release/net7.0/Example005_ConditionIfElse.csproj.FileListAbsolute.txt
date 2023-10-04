@@ -1,0 +1,14 @@
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\bin\Release\net7.0\Example005_ConditionIfElse.exe
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\bin\Release\net7.0\Example005_ConditionIfElse.deps.json
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\bin\Release\net7.0\Example005_ConditionIfElse.runtimeconfig.json
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\bin\Release\net7.0\Example005_ConditionIfElse.dll
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\bin\Release\net7.0\Example005_ConditionIfElse.pdb
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\obj\Release\net7.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\obj\Release\net7.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\obj\Release\net7.0\Example005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\obj\Release\net7.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\obj\Release\net7.0\Example005_ConditionIfElse.dll
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\obj\Release\net7.0\refint\Example005_ConditionIfElse.dll
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\obj\Release\net7.0\Example005_ConditionIfElse.pdb
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\obj\Release\net7.0\Example005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\Barbo\source\repos\Barbossnya\GeekBrains\Examples\Example005_ConditionIfElse\obj\Release\net7.0\ref\Example005_ConditionIfElse.dll
