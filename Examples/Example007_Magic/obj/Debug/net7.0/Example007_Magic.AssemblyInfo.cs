@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Example005_ConditionIfElse")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("example007_magic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Example005_ConditionIfElse")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Example005_ConditionIfElse")]
+[assembly: System.Reflection.AssemblyProductAttribute("example007_magic")]
+[assembly: System.Reflection.AssemblyTitleAttribute("example007_magic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
