@@ -1,0 +1,14 @@
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\bin\Debug\net7.0\Example006_Base.exe
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\bin\Debug\net7.0\Example006_Base.deps.json
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\bin\Debug\net7.0\Example006_Base.runtimeconfig.json
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\bin\Debug\net7.0\Example006_Base.dll
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\bin\Debug\net7.0\Example006_Base.pdb
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\obj\Debug\net7.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\obj\Debug\net7.0\Example006_Base.AssemblyInfoInputs.cache
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\obj\Debug\net7.0\Example006_Base.AssemblyInfo.cs
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\obj\Debug\net7.0\Example006_Base.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\obj\Debug\net7.0\Example006_Base.dll
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\obj\Debug\net7.0\refint\Example006_Base.dll
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\obj\Debug\net7.0\Example006_Base.pdb
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\obj\Debug\net7.0\Example006_Base.genruntimeconfig.cache
+C:\Users\Barbo\Source\Repos\Barbossnya\GeekBrains\Examples\Example006_Base\obj\Debug\net7.0\ref\Example006_Base.dll
