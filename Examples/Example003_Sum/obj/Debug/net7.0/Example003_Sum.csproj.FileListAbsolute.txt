@@ -3,7 +3,6 @@ C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example003_S
 C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example003_Sum\bin\Debug\net7.0\Example003_Sum.runtimeconfig.json
 C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example003_Sum\bin\Debug\net7.0\Example003_Sum.dll
 C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example003_Sum\bin\Debug\net7.0\Example003_Sum.pdb
-C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.csproj.AssemblyReference.cache
 C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.AssemblyInfoInputs.cache
 C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.AssemblyInfo.cs

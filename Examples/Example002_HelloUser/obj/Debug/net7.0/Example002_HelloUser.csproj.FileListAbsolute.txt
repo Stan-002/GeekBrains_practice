@@ -13,3 +13,18 @@ C:\Users\Barbo\OneDrive\Рабочий стол\BarboFortress_1\Гик Брей�
 C:\Users\Barbo\OneDrive\Рабочий стол\BarboFortress_1\Гик Брейнс\Знакомство с языком программирования C#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
 C:\Users\Barbo\OneDrive\Рабочий стол\BarboFortress_1\Гик Брейнс\Знакомство с языком программирования C#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
 C:\Users\Barbo\OneDrive\Рабочий стол\BarboFortress_1\Гик Брейнс\Знакомство с языком программирования C#\Examples\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.exe
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.deps.json
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.runtimeconfig.json
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.dll
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.pdb
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.dll
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\obj\Debug\net7.0\refint\Example002_HelloUser.dll
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Users\Barbo\OneDrive\Рабочий стол\GeekBrains\Examples\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll

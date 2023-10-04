@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\BarboFortress_1\\Гик Брейнс\\Знакомство с языком программирования C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\GeekBrains\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\BarboFortress_1\\Гик Брейнс\\Знакомство с языком программирования C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectPath": "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\GeekBrains\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\BarboFortress_1\\Гик Брейнс\\Знакомство с языком программирования C#\\Examples\\Example001_HelloConsole\\obj\\",
+      "outputPath": "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\GeekBrains\\Examples\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
