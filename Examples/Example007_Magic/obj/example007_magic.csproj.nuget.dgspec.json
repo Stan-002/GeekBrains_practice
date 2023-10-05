@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\example007_magic\\example007_magic.csproj": {}
+    "C:\\Users\\Default\\Desktop\\GeekBrains\\Examples\\Example007_Magic\\Example007_Magic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\example007_magic\\example007_magic.csproj": {
+    "C:\\Users\\Default\\Desktop\\GeekBrains\\Examples\\Example007_Magic\\Example007_Magic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\example007_magic\\example007_magic.csproj",
-        "projectName": "example007_magic",
-        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\example007_magic\\example007_magic.csproj",
+        "projectUniqueName": "C:\\Users\\Default\\Desktop\\GeekBrains\\Examples\\Example007_Magic\\Example007_Magic.csproj",
+        "projectName": "Example007_Magic",
+        "projectPath": "C:\\Users\\Default\\Desktop\\GeekBrains\\Examples\\Example007_Magic\\Example007_Magic.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\example007_magic\\obj\\",
+        "outputPath": "C:\\Users\\Default\\Desktop\\GeekBrains\\Examples\\Example007_Magic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
