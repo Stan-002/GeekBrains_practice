@@ -2,6 +2,11 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
             // Используйте IntelliSense, чтобы узнать, какие атрибуты существуют для отладки C#.
             // Используйте наведение для описания существующих атрибутов
             // Для получения дополнительных сведений посетите https://github.com/dotnet/vscode-csharp/blob/main/debugger-launchjson.md

@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Examples",
-    "\\Examples\\Example007_Magic"
+    "\\Experiments\\Experiment001",
+    "\\Tasks",
+    "\\Tasks\\task04",
+    "\\Tasks\\Task05",
+    "\\Tasks\\task06",
+    "\\Tasks\\task07",
+    "\\Tasks\\task08"
   ],
-  "SelectedNode": "\\Examples\\Example007_Magic",
+  "SelectedNode": "\\Tasks\\task08\\task08.csproj",
   "PreviewInSolutionExplorer": false
 }

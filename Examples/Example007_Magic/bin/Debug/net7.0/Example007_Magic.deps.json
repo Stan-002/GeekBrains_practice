@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Example007_Magic/1.0.0": {
+      "example007_magic/1.0.0": {
         "runtime": {
-          "Example007_Magic.dll": {}
+          "example007_magic.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Example007_Magic/1.0.0": {
+    "example007_magic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
