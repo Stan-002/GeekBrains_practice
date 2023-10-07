@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\bin\Debug\net7.0\Example008_IntroMethod.exe
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\bin\Debug\net7.0\Example008_IntroMethod.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\bin\Debug\net7.0\Example008_IntroMethod.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\bin\Debug\net7.0\Example008_IntroMethod.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\bin\Debug\net7.0\Example008_IntroMethod.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net7.0\refint\Example008_IntroMethod.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net7.0\ref\Example008_IntroMethod.dll

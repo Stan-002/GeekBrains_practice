@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.exe
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\obj\Debug\net7.0\refint\Example011_ArrayLibrary.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example011_ArrayLibrary\obj\Debug\net7.0\ref\Example011_ArrayLibrary.dll

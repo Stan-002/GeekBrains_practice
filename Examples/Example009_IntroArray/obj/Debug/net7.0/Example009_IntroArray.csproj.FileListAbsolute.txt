@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\bin\Debug\net7.0\Example009_IntroArray.exe
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\bin\Debug\net7.0\Example009_IntroArray.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\bin\Debug\net7.0\Example009_IntroArray.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\bin\Debug\net7.0\Example009_IntroArray.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\bin\Debug\net7.0\Example009_IntroArray.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net7.0\refint\Example009_IntroArray.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net7.0\ref\Example009_IntroArray.dll
