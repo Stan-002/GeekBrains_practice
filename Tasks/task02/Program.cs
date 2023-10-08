@@ -1,30 +1,40 @@
-﻿Console.WriteLine("Введите число дня недели: ");
+﻿/* 
+
+Внутри класса Answer напишите метод CompareNumbers,
+который на вход принимает два числа и выводит,
+какое число большее, а какое меньшее.
+a = 5; b =7 -> Первое число 5 меньше чем второе число 7
+a = 3; b = 2 -> Введение числа равны 2
+
+*/
+
+Console.WriteLine("Введите число дня недели: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 if (numberA == 1)
 {
-    Console.WriteLine("Пн");
+	Console.WriteLine("Пн");
 }
 if (numberA == 2)
 {
-    Console.WriteLine("Вт");
+	Console.WriteLine("Вт");
 }
 if (numberA == 3)
 {
-    Console.WriteLine("Ср");
+	Console.WriteLine("Ср");
 }
 if (numberA == 4)
 {
-    Console.WriteLine("Чт");
+	Console.WriteLine("Чт");
 }
 if (numberA == 5)
 {
-    Console.WriteLine("Пт");
+	Console.WriteLine("Пт");
 }
-    if (numberA == 6)
+	if (numberA == 6)
 {
-    Console.WriteLine("Сб");
+	Console.WriteLine("Сб");
 }
 if (numberA == 7)
 {
-    Console.WriteLine("Вс");
+	Console.WriteLine("Вс");
 }

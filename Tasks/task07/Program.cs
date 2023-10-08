@@ -8,7 +8,7 @@
 
 */
 
-System.Console.Write("Введите число: ");
+System.Console.Write("Введите трёхзначное число: ");
 int Number = Convert.ToInt32(Console.ReadLine());
 int result = Number % 10;
 System.Console.WriteLine(result);
