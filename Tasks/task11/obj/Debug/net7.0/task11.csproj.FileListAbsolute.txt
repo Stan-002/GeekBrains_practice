@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\obj\Debug\net7.0\task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\obj\Debug\net7.0\task11.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\obj\Debug\net7.0\task11.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\obj\Debug\net7.0\task11.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\bin\Debug\net7.0\task11.exe
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\bin\Debug\net7.0\task11.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\bin\Debug\net7.0\task11.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\bin\Debug\net7.0\task11.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\bin\Debug\net7.0\task11.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\obj\Debug\net7.0\task11.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\obj\Debug\net7.0\refint\task11.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\obj\Debug\net7.0\task11.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\obj\Debug\net7.0\task11.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task11\obj\Debug\net7.0\ref\task11.dll

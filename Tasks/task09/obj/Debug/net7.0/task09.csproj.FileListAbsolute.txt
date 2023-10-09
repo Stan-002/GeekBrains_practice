@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\bin\Debug\net7.0\task09.exe
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\bin\Debug\net7.0\task09.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\bin\Debug\net7.0\task09.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\bin\Debug\net7.0\task09.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\bin\Debug\net7.0\task09.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\obj\Debug\net7.0\task09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\obj\Debug\net7.0\task09.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\obj\Debug\net7.0\task09.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\obj\Debug\net7.0\task09.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\obj\Debug\net7.0\task09.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\obj\Debug\net7.0\refint\task09.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\obj\Debug\net7.0\task09.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\obj\Debug\net7.0\task09.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task09\obj\Debug\net7.0\ref\task09.dll
