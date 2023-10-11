@@ -10,6 +10,16 @@ task10. Напишите программу, которая принимает �
 
 Console.Write("Введите трёхзначное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
+if (number < 100 || number > 1000)
+{
+	Console.WriteLine("Число слишком большое");
+}
+
+else
+{
 int result = number / 10 % 10;
-Console.WriteLine(result);
+System.Console.WriteLine(result);
+}
+
+
 
