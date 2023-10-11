@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\bin\Debug\net7.0\task10.exe
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\bin\Debug\net7.0\task10.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\bin\Debug\net7.0\task10.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\bin\Debug\net7.0\task10.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\bin\Debug\net7.0\task10.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\obj\Debug\net7.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\obj\Debug\net7.0\task10.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\obj\Debug\net7.0\task10.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\obj\Debug\net7.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\obj\Debug\net7.0\task10.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\obj\Debug\net7.0\refint\task10.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\obj\Debug\net7.0\task10.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\obj\Debug\net7.0\task10.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task10\obj\Debug\net7.0\ref\task10.dll
