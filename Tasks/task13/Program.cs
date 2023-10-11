@@ -7,7 +7,6 @@
 
 */
 
-
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number > 999 / 10)
@@ -26,7 +25,37 @@ if (number < 100)
 		
 	
 
+/*
 
+Мой собственный пример
+
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+if (number > 999 / 10)
+{
+	Console.WriteLine(number % 10);
+}
+	
+if (number < 100)
+{
+	Console.WriteLine("Третьей цифры нет");
+}
+	
+	
+
+
+
+// Смещение разряда числа с разряда на 1 на 3
+int x = 32679;
+x = x << 6; // x равно 2097152
+
+// Извлечение третьей цифры.
+int thirdDigit = x % 1000 / 100;
+
+// Вывод результата.
+Console.WriteLine($"Третья цифра: {thirdDigit}");
+
+*/
 
 
 
