@@ -5,6 +5,24 @@ public class Answer
     static bool IsPalindrome(int number)
     {
         // Введите свое решение ниже
+        string numberStr = number.ToString();
+        int length = numberStr.Length;
+
+        if (length != 5)
+        {
+            Console.WriteLine("Число не пятизначное");
+            return false;
+        }
+
+        for (int i = 0; i < length / 2; i++)
+        {
+            if (numberStr[i] != numberStr[length - 1 - i])
+            {
+                return false;
+            }
+        }
+
+        return true;
     }
 
     // Не удаляйте и не меняйте метод Main!

@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\obj\Debug\net7.0\Autotest005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\obj\Debug\net7.0\Autotest005.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\obj\Debug\net7.0\Autotest005.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\obj\Debug\net7.0\Autotest005.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\bin\Debug\net7.0\Autotest005.exe
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\bin\Debug\net7.0\Autotest005.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\bin\Debug\net7.0\Autotest005.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\bin\Debug\net7.0\Autotest005.dll
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\bin\Debug\net7.0\Autotest005.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\obj\Debug\net7.0\Autotest005.dll
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\obj\Debug\net7.0\refint\Autotest005.dll
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\obj\Debug\net7.0\Autotest005.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\obj\Debug\net7.0\Autotest005.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest005\obj\Debug\net7.0\ref\Autotest005.dll

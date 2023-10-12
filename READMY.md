@@ -73,7 +73,7 @@ number = 5 -> 2    4
 number = 8 -> 2    4    6    8
 
 
-Autotest(Пусто)005:
+Autotest(Работает)005:
 
 Внутри класса Answer напишите метод IsPalindrome, который принимает на вход пятизначное число number и проверяет, является ли оно палиндромом.
 
@@ -388,3 +388,57 @@ class Program
 
 
 
+
+using System;
+
+public class Answer
+{
+    static bool IsPalindrome(int number)
+    {
+        string numberStr = number.ToString();
+        int length = numberStr.Length;
+
+        if (length != 5)
+        {
+            Console.WriteLine("Число не пятизначное");
+            return false;
+        }
+
+        for (int i = 0; i < length / 2; i++)
+        {
+            if (numberStr[i] != numberStr[length - 1 - i])
+            {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    static public void Main(string[] args)
+    {
+        int number;
+
+        if (args.Length >= 1)
+        {
+            number = int.Parse(args[0]);
+        }
+        else
+        {
+            // Здесь вы можете поменять значения для проверки других чисел
+            number = 13000;
+        }
+
+        // Не удаляйте строки ниже
+        bool result = IsPalindrome(number);
+        
+        if (result)
+        {
+            Console.WriteLine("True");
+        }
+        else
+        {
+            Console.WriteLine("False");
+        }
+    }
+}
