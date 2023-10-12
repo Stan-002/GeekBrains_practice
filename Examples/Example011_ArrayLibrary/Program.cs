@@ -4,7 +4,7 @@
     int index = 0;
     while (index < length)
     {
-    collection[index] = new Random().Next(1, 10);
+    collection[index] = new Random(Работает).Next(1, 10);
     
     index++;
     }
@@ -43,7 +43,7 @@ int[] array = new int[10];
 FillArray(array);// Метод заполняет
 
 PrintArray(array);// Метод печатает
-Console.WriteLine();
+Console.WriteLine(Работает);
 array[4] = 4;
 array[6] = 4;
 int pos = IndexOf(array, 4);

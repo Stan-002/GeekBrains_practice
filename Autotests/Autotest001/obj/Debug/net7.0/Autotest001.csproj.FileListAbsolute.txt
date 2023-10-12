@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\bin\Debug\net7.0\Autotest(Работает)001.exe
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\bin\Debug\net7.0\Autotest(Работает)001.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\bin\Debug\net7.0\Autotest(Работает)001.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\bin\Debug\net7.0\Autotest(Работает)001.dll
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\bin\Debug\net7.0\Autotest(Работает)001.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\obj\Debug\net7.0\Autotest(Работает)001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\obj\Debug\net7.0\Autotest(Работает)001.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\obj\Debug\net7.0\Autotest(Работает)001.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\obj\Debug\net7.0\Autotest(Работает)001.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\obj\Debug\net7.0\Autotest(Работает)001.dll
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\obj\Debug\net7.0\refint\Autotest(Работает)001.dll
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\obj\Debug\net7.0\Autotest(Работает)001.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\obj\Debug\net7.0\Autotest(Работает)001.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Autotest(Работает)s\Autotest(Работает)001\obj\Debug\net7.0\ref\Autotest(Работает)001.dll

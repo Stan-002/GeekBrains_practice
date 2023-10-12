@@ -14,7 +14,7 @@ using System;
 
  */
  
-int number = new Random().Next(100, 1000);
+int number = new Random(Работает).Next(100, 1000);
 System.Console.WriteLine(number);
 int first = number / 100;
 int last = number % 10;

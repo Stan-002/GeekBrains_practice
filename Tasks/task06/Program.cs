@@ -8,7 +8,7 @@
 */
 
 System.Console.WriteLine("Задай число 1");
-int number = Convert.ToInt32(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine(Работает));
 
 if(number % 2 == 0)
 {

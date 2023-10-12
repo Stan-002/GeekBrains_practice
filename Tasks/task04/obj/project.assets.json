@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task04\\task04.csproj",
-      "projectName": "task04",
-      "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task04\\task04.csproj",
+      "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\task(Работает)s\\task(Работает)04\\task(Работает)04.csproj",
+      "projectName": "task(Работает)04",
+      "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\task(Работает)s\\task(Работает)04\\task(Работает)04.csproj",
       "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task04\\obj\\",
+      "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\task(Работает)s\\task(Работает)04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

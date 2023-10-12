@@ -10,7 +10,7 @@
 using System.Reflection.Metadata;
 
 System.Console.WriteLine("Enter your number");
-int Number = Convert.ToInt32(Console.ReadLine());
+int Number = Convert.ToInt32(Console.ReadLine(Работает));
 for(int i = 0-Number; i <= Number; i++){
 System.Console.Write(i + " ");
 }

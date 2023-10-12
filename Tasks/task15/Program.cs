@@ -9,7 +9,7 @@
 
 Console.WriteLine("Введите номер дня недели от 1 до 7: ");
 
-int dayNumber = Convert.ToInt32(Console.ReadLine());
+int dayNumber = Convert.ToInt32(Console.ReadLine(Работает));
 
 if (dayNumber <=5 && dayNumber > 0)
 {
@@ -29,7 +29,7 @@ else if (dayNumber < 1 || dayNumber > 7)
 Мое собственное решение
 
 System.Console.WriteLine("Введите цифру дня недели: ");
-int day = int.Parse(Console.ReadLine());
+int day = int.Parse(Console.ReadLine(Работает));
 bool isWeekend = day == 6 || day == 7;
 
 if (day == 1)

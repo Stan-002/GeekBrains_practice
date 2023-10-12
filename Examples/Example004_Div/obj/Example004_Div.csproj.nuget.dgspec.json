@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\GeekBrains\\Examples\\Example004_Div\\Example004_Div.csproj": {}
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example004_Div\\Example004_Div.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\GeekBrains\\Examples\\Example004_Div\\Example004_Div.csproj": {
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example004_Div\\Example004_Div.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\GeekBrains\\Examples\\Example004_Div\\Example004_Div.csproj",
+        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example004_Div\\Example004_Div.csproj",
         "projectName": "Example004_Div",
-        "projectPath": "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\GeekBrains\\Examples\\Example004_Div\\Example004_Div.csproj",
+        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example004_Div\\Example004_Div.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\OneDrive\\Рабочий стол\\GeekBrains\\Examples\\Example004_Div\\obj\\",
+        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example004_Div\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Barbo\\AppData\\Roaming\\.dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

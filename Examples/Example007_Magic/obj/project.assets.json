@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\example007_magic\\example007_magic.csproj",
-      "projectName": "example007_magic",
-      "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\example007_magic\\example007_magic.csproj",
+      "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example007_Magic\\Example007_Magic.csproj",
+      "projectName": "Example007_Magic",
+      "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example007_Magic\\Example007_Magic.csproj",
       "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\example007_magic\\obj\\",
+      "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example007_Magic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

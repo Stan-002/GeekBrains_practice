@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\obj\Debug\net7.0\task(Работает)20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\obj\Debug\net7.0\task(Работает)20.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\obj\Debug\net7.0\task(Работает)20.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\obj\Debug\net7.0\task(Работает)20.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\bin\Debug\net7.0\task(Работает)20.exe
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\bin\Debug\net7.0\task(Работает)20.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\bin\Debug\net7.0\task(Работает)20.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\bin\Debug\net7.0\task(Работает)20.dll
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\bin\Debug\net7.0\task(Работает)20.pdb
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\obj\Debug\net7.0\task(Работает)20.dll
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\obj\Debug\net7.0\refint\task(Работает)20.dll
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\obj\Debug\net7.0\task(Работает)20.pdb
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\obj\Debug\net7.0\task(Работает)20.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)20\obj\Debug\net7.0\ref\task(Работает)20.dll

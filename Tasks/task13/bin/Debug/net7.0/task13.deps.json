@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "task13/1.0.0": {
+      "task(Работает)13/1.0.0": {
         "runtime": {
-          "task13.dll": {}
+          "task(Работает)13.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "task13/1.0.0": {
+    "task(Работает)13/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

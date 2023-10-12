@@ -11,7 +11,7 @@ using System;
 
 */
 
-int number = new Random().Next(10, 100);
+int number = new Random(Работает).Next(10, 100);
 System.Console.WriteLine(number);
 
 int first = number / 10;
