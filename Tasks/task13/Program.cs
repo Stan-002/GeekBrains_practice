@@ -8,7 +8,7 @@
 */
 
 Console.WriteLine("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine(Работает));
+int number = Convert.ToInt32(Console.ReadLine());
 int result = 0;
 
 for (int i = number; i >= 100; i = i / 10)
@@ -30,7 +30,7 @@ else
 Мой собственный пример
 
 Console.Write("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine(Работает));
+int number = Convert.ToInt32(Console.ReadLine());
 if (number > 999 / 10)
 {
 	Console.WriteLine(number % 10);

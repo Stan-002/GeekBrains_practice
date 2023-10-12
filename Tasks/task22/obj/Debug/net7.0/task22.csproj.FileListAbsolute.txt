@@ -12,3 +12,17 @@ C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)
 C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)22\obj\Debug\net7.0\task(Работает)22.pdb
 C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)22\obj\Debug\net7.0\task(Работает)22.genruntimeconfig.cache
 C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)22\obj\Debug\net7.0\ref\task(Работает)22.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\obj\Debug\net7.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\obj\Debug\net7.0\task22.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\obj\Debug\net7.0\task22.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\obj\Debug\net7.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\obj\Debug\net7.0\task22.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\obj\Debug\net7.0\refint\task22.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\obj\Debug\net7.0\task22.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\bin\Debug\net7.0\task22.exe
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\bin\Debug\net7.0\task22.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\bin\Debug\net7.0\task22.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\bin\Debug\net7.0\task22.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\bin\Debug\net7.0\task22.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\obj\Debug\net7.0\task22.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task22\obj\Debug\net7.0\ref\task22.dll

@@ -9,13 +9,13 @@ a = -3 b = 9 -> нет
 
 */
 
-Console.Clear(Работает);
+Console.Clear();
 
 System.Console.WriteLine("Введите число 1: ");
-Double userNumber1 = Convert.ToDouble (Console.ReadLine(Работает));
+Double userNumber1 = Convert.ToDouble (Console.ReadLine());
 
 System.Console.WriteLine("Введите число 2: ");
-Double userNumber2 = Convert.ToDouble (Console.ReadLine(Работает));
+Double userNumber2 = Convert.ToDouble (Console.ReadLine());
 
 if (userNumber1 == userNumber2 * userNumber2)
 {

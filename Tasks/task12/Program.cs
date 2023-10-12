@@ -9,9 +9,9 @@
 */
 
 System.Console.WriteLine("Задай число 1");
-int number1 = Convert.ToInt32(Console.ReadLine(Работает));
+int number1 = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Задай число 2");
-int number2 = Convert.ToInt32(Console.ReadLine(Работает));
+int number2 = Convert.ToInt32(Console.ReadLine());
 
 if(number1 % number2 == 0)
 {

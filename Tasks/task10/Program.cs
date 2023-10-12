@@ -9,7 +9,7 @@ task(Работает)10. Напишите программу, которая п
 */
 
 Console.Write("Введите трёхзначное число: ");
-int number = Convert.ToInt32(Console.ReadLine(Работает));
+int number = Convert.ToInt32(Console.ReadLine());
 if (number < 100 || number > 1000)
 {
 	Console.WriteLine("Число слишком большое");

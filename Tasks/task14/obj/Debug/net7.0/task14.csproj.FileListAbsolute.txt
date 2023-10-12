@@ -12,3 +12,10 @@ C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)
 C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)14\obj\Debug\net7.0\task(Работает)14.pdb
 C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)14\obj\Debug\net7.0\task(Работает)14.genruntimeconfig.cache
 C:\Users\Barbo\Desktop\GeekBrains\task(Работает)s\task(Работает)14\obj\Debug\net7.0\ref\task(Работает)14.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\task14.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\task14.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\task14.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\task14.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\refint\task14.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\task14.pdb

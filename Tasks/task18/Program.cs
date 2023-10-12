@@ -7,7 +7,7 @@
 */
 
 System.Console.WriteLine("Введите координаты точки: ");
-int userCvoter = Convert.ToInt32(Console.ReadLine(Работает));
+int userCvoter = Convert.ToInt32(Console.ReadLine());
 
 if(userCvoter == 1)
 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\task(Работает)s\\task(Работает)18\\task(Работает)18.csproj": {}
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task18\\task18.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\task(Работает)s\\task(Работает)18\\task(Работает)18.csproj": {
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task18\\task18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\task(Работает)s\\task(Работает)18\\task(Работает)18.csproj",
-        "projectName": "task(Работает)18",
-        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\task(Работает)s\\task(Работает)18\\task(Работает)18.csproj",
+        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task18\\task18.csproj",
+        "projectName": "task18",
+        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task18\\task18.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\task(Работает)s\\task(Работает)18\\obj\\",
+        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task18\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"

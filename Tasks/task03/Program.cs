@@ -1,5 +1,5 @@
-﻿Console.WriteLine("Введите число дня недели: ");
-int numberA = Convert.ToInt32(Console.ReadLine(Работает));
+﻿Console.WriteLine("Введите число дня недели: ")
+int numberA = Convert.ToInt32(Console.ReadLine());
 if (numberA == 1)
 {
 	Console.WriteLine("Пн");

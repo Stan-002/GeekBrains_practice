@@ -8,9 +8,9 @@ using System;
 */
 
 System.Console.WriteLine("Введите три числа: ");
-int number1 = Convert.ToInt32(Console.ReadLine(Работает));
-int number2 = Convert.ToInt32(Console.ReadLine(Работает));
-int number3 = Convert.ToInt32(Console.ReadLine(Работает));
+int number1 = Convert.ToInt32(Console.ReadLine());
+int number2 = Convert.ToInt32(Console.ReadLine());
+int number3 = Convert.ToInt32(Console.ReadLine());
 
 int max = number1;
 if (number1 > max)

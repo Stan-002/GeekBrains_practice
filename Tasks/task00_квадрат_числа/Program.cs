@@ -5,7 +5,7 @@
 */
 
 System.Console.WriteLine("Введите число: ");
-int userNumber = Convert.ToInt32(Console.ReadLine(Работает));
+int userNumber = Convert.ToInt32(Console.ReadLine());
 
 int result = userNumber * userNumber;
 
