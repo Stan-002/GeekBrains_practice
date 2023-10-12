@@ -19,3 +19,10 @@ C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\task14.csproj.Co
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\task14.dll
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\refint\task14.dll
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\task14.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\bin\Debug\net7.0\task14.exe
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\bin\Debug\net7.0\task14.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\bin\Debug\net7.0\task14.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\bin\Debug\net7.0\task14.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\bin\Debug\net7.0\task14.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\task14.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task14\obj\Debug\net7.0\ref\task14.dll

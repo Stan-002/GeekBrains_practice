@@ -19,3 +19,10 @@ C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\obj\Debug\net7.0\task03.csproj.Co
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\obj\Debug\net7.0\task03.dll
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\obj\Debug\net7.0\refint\task03.dll
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\obj\Debug\net7.0\task03.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\bin\Debug\net7.0\task03.exe
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\bin\Debug\net7.0\task03.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\bin\Debug\net7.0\task03.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\bin\Debug\net7.0\task03.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\bin\Debug\net7.0\task03.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\obj\Debug\net7.0\task03.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task03\obj\Debug\net7.0\ref\task03.dll
