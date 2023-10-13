@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotest(Работает)s\\Autotest(Работает)007\\Autotest(Работает)007.csproj": {}
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotests\\Autotest007\\Autotest007.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotest(Работает)s\\Autotest(Работает)007\\Autotest(Работает)007.csproj": {
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotests\\Autotest007\\Autotest007.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotest(Работает)s\\Autotest(Работает)007\\Autotest(Работает)007.csproj",
-        "projectName": "Autotest(Работает)007",
-        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotest(Работает)s\\Autotest(Работает)007\\Autotest(Работает)007.csproj",
+        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotests\\Autotest007\\Autotest007.csproj",
+        "projectName": "Autotest007",
+        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotests\\Autotest007\\Autotest007.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotest(Работает)s\\Autotest(Работает)007\\obj\\",
+        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotests\\Autotest007\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
