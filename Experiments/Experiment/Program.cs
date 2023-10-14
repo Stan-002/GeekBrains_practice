@@ -2,6 +2,7 @@
 using System;
 
 Console.Clear();
+string user(string);
 System.Console.WriteLine("Введите имя пользователя: ");
 string user = Console.ReadLine();
 

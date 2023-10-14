@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\bin\Debug\net7.0\Example012_Methods.exe
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\bin\Debug\net7.0\Example012_Methods.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\bin\Debug\net7.0\Example012_Methods.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\bin\Debug\net7.0\Example012_Methods.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\bin\Debug\net7.0\Example012_Methods.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\obj\Debug\net7.0\Example012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\obj\Debug\net7.0\Example012_Methods.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\obj\Debug\net7.0\Example012_Methods.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\obj\Debug\net7.0\Example012_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\obj\Debug\net7.0\Example012_Methods.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\obj\Debug\net7.0\refint\Example012_Methods.dll
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\obj\Debug\net7.0\Example012_Methods.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\obj\Debug\net7.0\Example012_Methods.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Examples\Example012_Methods\obj\Debug\net7.0\ref\Example012_Methods.dll

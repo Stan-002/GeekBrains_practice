@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        Console.Clear(Работает);
+        Console.Clear();
         //Console.SetCursorPosition(10, 4);
         //Console.WriteLine("+");
         
@@ -25,7 +25,7 @@
         
         while (count < 10000)
         {
-            int what = new Random(Работает).Next(0, 3); // [0;3) 0 1 2
+            int what = new Random().Next(0, 3); // [0;3) 0 1 2
             if (what == 0)
             {
                 x = (x + xa) / 2;
