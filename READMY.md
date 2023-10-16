@@ -503,3 +503,34 @@ System.Console.WriteLine(result);
 int b = 8;
 double result = Match.Sqrt(b);
 System.Console.WriteLine(result);
+
+
+
+using System;
+Console.Clear();
+
+System.Console.WriteLine("Please, enter the number: ");
+int userNumber = Convert.ToInt32(Console.ReadLine());
+
+int multiplier(int a)
+{
+    result = 1;
+    if (a > 0) a = a * -1;
+    for (int i = 1; i < a + 1; i++)
+    {
+        result = result * i;
+    }
+    if (a < 0 && a%2 != 0) result = result * -1;
+    return result;
+}
+    
+System.Console.WriteLine($"Factorial of intered number {userNumber}: {multiplier(userNumber)}");
+
+
+
+
+while (number > 0)
+	{
+		sum += number % 10;
+		number /= 10;
+	}
