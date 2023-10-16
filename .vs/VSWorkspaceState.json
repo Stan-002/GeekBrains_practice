@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Autotests",
-    "\\Autotests\\Autotest005"
+    "\\Autotests\\Autotest005",
+    "\\Experiments",
+    "\\Experiments\\Experiment"
   ],
-  "SelectedNode": "\\Autotests\\Autotest005",
+  "SelectedNode": "\\Experiments\\Experiment\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

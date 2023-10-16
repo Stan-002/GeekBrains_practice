@@ -2,16 +2,15 @@
 using System;
 
 Console.Clear();
-string user(string);
 System.Console.WriteLine("Введите имя пользователя: ");
 string user = Console.ReadLine();
-
-// string user = "Аня";
-if (user.ToLower() == "Аня")
 {
-	System.Console.WriteLine("Привет, Аннечка Милая, как ты?");
-}
-else
-{
-	System.Console.WriteLine("О Привет");
+	if (user.ToLower() == "Аня")
+	{
+		System.Console.WriteLine("Привет, Аннечка Милая, как ты?");
+	}
+	else
+	{
+		System.Console.WriteLine("О привет");
+	}
 }
