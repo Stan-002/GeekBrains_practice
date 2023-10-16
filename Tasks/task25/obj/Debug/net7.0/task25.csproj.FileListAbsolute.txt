@@ -1,0 +1,14 @@
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\obj\Debug\net7.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\obj\Debug\net7.0\task25.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\obj\Debug\net7.0\task25.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\obj\Debug\net7.0\task25.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\bin\Debug\net7.0\task25.exe
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\bin\Debug\net7.0\task25.deps.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\bin\Debug\net7.0\task25.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\bin\Debug\net7.0\task25.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\bin\Debug\net7.0\task25.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\obj\Debug\net7.0\task25.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\obj\Debug\net7.0\refint\task25.dll
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\obj\Debug\net7.0\task25.pdb
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\obj\Debug\net7.0\task25.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains\Tasks\task25\obj\Debug\net7.0\ref\task25.dll
