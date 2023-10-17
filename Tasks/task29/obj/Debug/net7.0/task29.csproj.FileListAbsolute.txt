@@ -12,3 +12,17 @@ C:\Users\Barbo\Desktop\GeekBrains\Tasks\task29\obj\Debug\net7.0\refint\task29.dl
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task29\obj\Debug\net7.0\task29.pdb
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task29\obj\Debug\net7.0\task29.genruntimeconfig.cache
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task29\obj\Debug\net7.0\ref\task29.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\bin\Debug\net7.0\task29.exe
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\bin\Debug\net7.0\task29.deps.json
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\bin\Debug\net7.0\task29.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\bin\Debug\net7.0\task29.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\bin\Debug\net7.0\task29.pdb
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\obj\Debug\net7.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\obj\Debug\net7.0\task29.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\obj\Debug\net7.0\task29.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\obj\Debug\net7.0\task29.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\obj\Debug\net7.0\task29.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\obj\Debug\net7.0\refint\task29.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\obj\Debug\net7.0\task29.pdb
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\obj\Debug\net7.0\task29.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task29\obj\Debug\net7.0\ref\task29.dll

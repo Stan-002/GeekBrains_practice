@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task29\\task29.csproj": {}
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task29\\task29.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task29\\task29.csproj": {
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task29\\task29.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task29\\task29.csproj",
+        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task29\\task29.csproj",
         "projectName": "task29",
-        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task29\\task29.csproj",
+        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task29\\task29.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task29\\obj\\",
+        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task29\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",

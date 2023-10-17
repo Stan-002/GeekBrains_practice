@@ -27,6 +27,32 @@ else
 
 /* 
 
+int UserReverse(int a)
+{
+    int revN = 0;
+    for (int i = a; i > 0; i /= 10)
+    {
+        revN = revN * 10 + i % 10;
+    }
+    return revN;
+}
+
+void Result(int a, int b)
+{
+    if (a == b) System.Console.WriteLine("Yes");
+    else System.Console.WriteLine("No");
+}
+
+System.Console.WriteLine("Enter number: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int revN = UserReverse(n);
+
+Result(n, revN);
+
+*/
+
+/* 
+
 System.Console.WriteLine("Введите число: ");
 int N = Convert.ToInt32(Console.ReadLine());
 int revN = 0;
@@ -47,23 +73,23 @@ System.Console.Write("набирите пятизначное число: ");
 int val = Convert.ToInt32(Console.ReadLine());
 if(val <= 99999 && val >= 10000);
 {
-    System.Console.WriteLine("пятизначное цифры нет");
+	System.Console.WriteLine("пятизначное цифры нет");
 }
 int rev = 0;
 while(val != 0)
 {
-    rev = rev * 10 + val % 10;
-    val /= 10;
+	rev = rev * 10 + val % 10;
+	val /= 10;
 }
 string str = rev.ToString();
 Console.WriteLine($"{str[0]} {str[1]} {str[3]} {str[4]}");
 if (str[0] == str[4] && str[1] == str[3])
 {
-    Console.WriteLine($"Евляется полидромом {str[0]} {str[1]} {str[3]} {str[4]}");
+	Console.WriteLine($"Евляется полидромом {str[0]} {str[1]} {str[3]} {str[4]}");
 }
 else
 {
-    Console.WriteLine("Число не палидром");
+	Console.WriteLine("Число не палидром");
 }
 
 */
