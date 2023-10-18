@@ -10,16 +10,20 @@ int UserReverse(int a)
 	return revN;
 }
 
-void 
+void Result(int a, int b)
+{
+	if (a == b)
+		System.Console.WriteLine("Yes");
+	else
+		System.Console.WriteLine("No");
+}
 
 System.Console.WriteLine("Enter number: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int revN = UserReverse(n);
 
-if (n == revN)
-	System.Console.WriteLine("Yes");
-else
-	System.Console.WriteLine("No");
+Result(n, revN);
+
 
 
 
