@@ -9,7 +9,7 @@ using Internal;
 
 */
 using System;
-System.Console.Write("Введи число: ");
+System.Console.Write("Введите число: ");
 int userNumber = int.Parse(Console.ReadLine());
 
 for (int i = 1; i <= userNumber; i++)
