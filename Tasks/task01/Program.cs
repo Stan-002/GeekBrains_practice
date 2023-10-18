@@ -25,4 +25,3 @@ else
 {
     System.Console.WriteLine("Нет");
 }
-
