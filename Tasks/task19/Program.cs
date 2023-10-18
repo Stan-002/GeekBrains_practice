@@ -1,5 +1,43 @@
 ﻿Console.Clear();
 
+int UserReverse(int a)
+{
+	int revN = 0;
+	for (int i = a; i > 0; i /= 10)
+	{
+		revN = revN * 10 + i % 10;
+	}
+	return revN;
+}
+
+void 
+
+System.Console.WriteLine("Enter number: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int revN = UserReverse(n);
+
+if (n == revN)
+	System.Console.WriteLine("Yes");
+else
+	System.Console.WriteLine("No");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
 System.Console.WriteLine("Введите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int n1 = n / 10000;
@@ -24,23 +62,31 @@ else
 // 12 : 10 = 1 целых (2) в остатке
 // 7 : 2 = 3 целых (1) в остатке
 
+*/
 
-/* 
+
+
+
+
+
+
+
+/*
 
 int UserReverse(int a)
 {
-    int revN = 0;
-    for (int i = a; i > 0; i /= 10)
-    {
-        revN = revN * 10 + i % 10;
-    }
-    return revN;
+	int revN = 0;
+	for (int i = a; i > 0; i /= 10)
+	{
+		revN = revN * 10 + i % 10;
+	}
+	return revN;
 }
 
 void Result(int a, int b)
 {
-    if (a == b) System.Console.WriteLine("Yes");
-    else System.Console.WriteLine("No");
+	if (a == b) System.Console.WriteLine("Yes");
+	else System.Console.WriteLine("No");
 }
 
 System.Console.WriteLine("Enter number: ");
@@ -51,7 +97,7 @@ Result(n, revN);
 
 */
 
-/* 
+/*
 
 System.Console.WriteLine("Введите число: ");
 int N = Convert.ToInt32(Console.ReadLine());
@@ -60,14 +106,14 @@ for (int i = N; i > 0; i/=10)
 {
 	revN = revN * 10 + i % 10;
 	System.Console.WriteLine();
-} 
+}
 if (N == revN)
 System.Console.WriteLine("Да");
 else System.Console.WriteLine("Нет");
 
  */
 
-/* 
+/*
 
 System.Console.Write("набирите пятизначное число: ");
 int val = Convert.ToInt32(Console.ReadLine());
@@ -93,13 +139,3 @@ else
 }
 
 */
-
-
-
-
-
-
-
-
-
-

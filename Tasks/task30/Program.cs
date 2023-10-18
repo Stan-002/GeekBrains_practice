@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Dynamic;
+using System;
 /* 
 
 Напишите программу, которая выводит массив из 8 элементов, заполненный нулями и единицами в случайном порядке.
@@ -25,5 +26,7 @@ void PrintArray(int [] arr)
 	}
 }
 
-int[] userArray = GetRandArray(9);
+System.Console.WriteLine("Задай размер массива: ");
+int userSize = Convert.ToInt32(Console.ReadLine());
+int[] userArray = GetRandArray(userSize);
 PrintArray(userArray);

@@ -12,3 +12,17 @@ C:\Users\Barbo\Desktop\GeekBrains\Tasks\task28\obj\Debug\net7.0\refint\task28.dl
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task28\obj\Debug\net7.0\task28.pdb
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task28\obj\Debug\net7.0\task28.genruntimeconfig.cache
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task28\obj\Debug\net7.0\ref\task28.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\bin\Debug\net7.0\task28.exe
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\bin\Debug\net7.0\task28.deps.json
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\bin\Debug\net7.0\task28.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\bin\Debug\net7.0\task28.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\bin\Debug\net7.0\task28.pdb
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\obj\Debug\net7.0\task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\obj\Debug\net7.0\task28.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\obj\Debug\net7.0\task28.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\obj\Debug\net7.0\task28.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\obj\Debug\net7.0\task28.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\obj\Debug\net7.0\refint\task28.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\obj\Debug\net7.0\task28.pdb
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\obj\Debug\net7.0\task28.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task28\obj\Debug\net7.0\ref\task28.dll

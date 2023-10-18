@@ -6,18 +6,18 @@
 
 */
 Console.Clear();
-System.Console.Write("Введите число N: ");
-int userN = Convert.ToInt32(Console.ReadLine());
 
 int Number(int n)
 {
-    int num = 1;
+	int num = 1;
 
-    for (int i = 1; i <= n;  i++)
-    {
-         num = num * i;
-    }
-    return num;
+	for (int i = 1; i <= n;  i++)
+	{
+		 num = num * i;
+	}
+	return num;
 }
+System.Console.Write("Введите число N: ");
+int userN = Convert.ToInt32(Console.ReadLine());
 int userResult = Number(userN);
 System.Console.WriteLine(userResult);

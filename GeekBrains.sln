@@ -27,57 +27,57 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example010_MethodArray", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example011_ArrayLibrary", "Examples\Example011_ArrayLibrary\Example011_ArrayLibrary.csproj", "{6537FD6C-0158-4F90-885A-A557E32649A1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Autotest(Работает)s", "Autotest(Работает)s", "{E61315BD-A415-4980-9468-EC5F31788347}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Autotest()s", "Autotest()s", "{E61315BD-A415-4980-9468-EC5F31788347}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autotest(Работает)001", "Autotest(Работает)s\Autotest(Работает)001\Autotest(Работает)001.csproj", "{AE7DE98B-3E9F-4399-9421-0429FB1376E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autotest()001", "Autotest()s\Autotest()001\Autotest()001.csproj", "{AE7DE98B-3E9F-4399-9421-0429FB1376E9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autotest(Работает)002", "Autotest(Работает)s\Autotest(Работает)002\Autotest(Работает)002.csproj", "{7BDB1464-810A-411D-A332-A9D6BC4252DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autotest()002", "Autotest()s\Autotest()002\Autotest()002.csproj", "{7BDB1464-810A-411D-A332-A9D6BC4252DE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autotest(Работает)003", "Autotest(Работает)s\Autotest(Работает)003\Autotest(Работает)003.csproj", "{42EA44F8-FE1B-4623-9961-5EA7BF7FCF44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autotest()003", "Autotest()s\Autotest()003\Autotest()003.csproj", "{42EA44F8-FE1B-4623-9961-5EA7BF7FCF44}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task(Работает)s", "task(Работает)s", "{A4CAE4CB-6FC5-406B-A62D-90034E828D26}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task()s", "task()s", "{A4CAE4CB-6FC5-406B-A62D-90034E828D26}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.10_MORNING", "task(Работает)s\task(Работает)00_квадрат_числа\5.10_MORNING.csproj", "{3128F430-8F7A-4848-BB06-DF79166116F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.10_MORNING", "task()s\task()00_квадрат_числа\5.10_MORNING.csproj", "{3128F430-8F7A-4848-BB06-DF79166116F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)01", "task(Работает)s\task(Работает)01\task(Работает)01.csproj", "{B212D1AE-8FA5-459A-A591-CFF47231713E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()01", "task()s\task()01\task()01.csproj", "{B212D1AE-8FA5-459A-A591-CFF47231713E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)02", "task(Работает)s\task(Работает)02\task(Работает)02.csproj", "{7B0357B7-40B7-4F93-85E0-F78A64190035}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()02", "task()s\task()02\task()02.csproj", "{7B0357B7-40B7-4F93-85E0-F78A64190035}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)03", "task(Работает)s\task(Работает)03\task(Работает)03.csproj", "{45254A20-8887-4261-AED1-73B1E7E6A7FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()03", "task()s\task()03\task()03.csproj", "{45254A20-8887-4261-AED1-73B1E7E6A7FE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)04", "task(Работает)s\task(Работает)04\task(Работает)04.csproj", "{48989A95-D93D-4E64-AC35-65BFACD80FA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()04", "task()s\task()04\task()04.csproj", "{48989A95-D93D-4E64-AC35-65BFACD80FA7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)05", "task(Работает)s\task(Работает)05\task(Работает)05.csproj", "{BD7837FA-E61A-4A07-8F5B-2C1BC727B1FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()05", "task()s\task()05\task()05.csproj", "{BD7837FA-E61A-4A07-8F5B-2C1BC727B1FC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)06", "task(Работает)s\task(Работает)06\task(Работает)06.csproj", "{8EDACCEE-1BA0-4EAF-B0CC-B63B93FFBE3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()06", "task()s\task()06\task()06.csproj", "{8EDACCEE-1BA0-4EAF-B0CC-B63B93FFBE3E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)07", "task(Работает)s\task(Работает)07\task(Работает)07.csproj", "{F34D1FA0-4746-4346-B187-823748F37F5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()07", "task()s\task()07\task()07.csproj", "{F34D1FA0-4746-4346-B187-823748F37F5A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)08", "task(Работает)s\task(Работает)08\task(Работает)08.csproj", "{DD160C01-2B89-4EC0-BC0D-85ADD444A484}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()08", "task()s\task()08\task()08.csproj", "{DD160C01-2B89-4EC0-BC0D-85ADD444A484}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)09", "task(Работает)s\task(Работает)09\task(Работает)09.csproj", "{DA031999-4345-4472-AD45-CDE62EDA2117}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()09", "task()s\task()09\task()09.csproj", "{DA031999-4345-4472-AD45-CDE62EDA2117}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)10", "task(Работает)s\task(Работает)10\task(Работает)10.csproj", "{4E6845BE-CD26-412A-915E-72490FE3757F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()10", "task()s\task()10\task()10.csproj", "{4E6845BE-CD26-412A-915E-72490FE3757F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)11", "task(Работает)s\task(Работает)11\task(Работает)11.csproj", "{2873CCB7-7B82-41AB-B4C4-0D048083FF70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()11", "task()s\task()11\task()11.csproj", "{2873CCB7-7B82-41AB-B4C4-0D048083FF70}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)12", "task(Работает)s\task(Работает)12\task(Работает)12.csproj", "{697EA3B2-0E5B-43D3-9EEE-D26748B2730A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()12", "task()s\task()12\task()12.csproj", "{697EA3B2-0E5B-43D3-9EEE-D26748B2730A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)13", "task(Работает)s\task(Работает)13\task(Работает)13.csproj", "{B306419C-0AE3-41DA-91CC-FD7D34536867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()13", "task()s\task()13\task()13.csproj", "{B306419C-0AE3-41DA-91CC-FD7D34536867}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)14", "task(Работает)s\task(Работает)14\task(Работает)14.csproj", "{4159D0A2-9713-4EA3-8FFA-DA944943CB0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()14", "task()s\task()14\task()14.csproj", "{4159D0A2-9713-4EA3-8FFA-DA944943CB0C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)15", "task(Работает)s\task(Работает)15\task(Работает)15.csproj", "{943F7C68-640B-4DCB-A5C1-D49C9022F8F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()15", "task()s\task()15\task()15.csproj", "{943F7C68-640B-4DCB-A5C1-D49C9022F8F7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)16", "task(Работает)s\task(Работает)16\task(Работает)16.csproj", "{424E5EED-0DF6-4F73-9814-36110891FA99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()16", "task()s\task()16\task()16.csproj", "{424E5EED-0DF6-4F73-9814-36110891FA99}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)17", "task(Работает)s\task(Работает)17\task(Работает)17.csproj", "{ADBE736A-FF1C-43CC-B138-F916EB8A1398}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()17", "task()s\task()17\task()17.csproj", "{ADBE736A-FF1C-43CC-B138-F916EB8A1398}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)18", "task(Работает)s\task(Работает)18\task(Работает)18.csproj", "{16A3BFB9-235E-4C45-AC8D-7ECFBEF8A798}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()18", "task()s\task()18\task()18.csproj", "{16A3BFB9-235E-4C45-AC8D-7ECFBEF8A798}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)20", "task(Работает)s\task(Работает)20\task(Работает)20.csproj", "{CFBED949-4DD3-4519-B3E4-5E5BB9D7D861}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()20", "task()s\task()20\task()20.csproj", "{CFBED949-4DD3-4519-B3E4-5E5BB9D7D861}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task(Работает)22", "task(Работает)s\task(Работает)22\task(Работает)22.csproj", "{A1C00C23-90E6-4158-BD34-410EAD85FD2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task()22", "task()s\task()22\task()22.csproj", "{A1C00C23-90E6-4158-BD34-410EAD85FD2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

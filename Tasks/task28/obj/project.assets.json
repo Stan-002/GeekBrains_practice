@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task28\\task28.csproj",
+      "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task28\\task28.csproj",
       "projectName": "task28",
-      "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task28\\task28.csproj",
+      "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task28\\task28.csproj",
       "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task28\\obj\\",
+      "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task28\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",

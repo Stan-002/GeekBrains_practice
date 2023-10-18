@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task24\\task24.csproj": {}
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task24\\task24.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task24\\task24.csproj": {
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task24\\task24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task24\\task24.csproj",
+        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task24\\task24.csproj",
         "projectName": "task24",
-        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task24\\task24.csproj",
+        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task24\\task24.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Tasks\\task24\\obj\\",
+        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Tasks\\task24\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",

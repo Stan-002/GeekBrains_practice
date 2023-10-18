@@ -24,3 +24,4 @@ int Sum(int num)
 
 int userSum = Sum(userNum);
 System.Console.WriteLine(userSum);
+
