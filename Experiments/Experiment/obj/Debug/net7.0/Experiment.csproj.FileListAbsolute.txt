@@ -12,3 +12,17 @@ C:\Users\Barbo\Desktop\GeekBrains\Experiments\Experiment\obj\Debug\net7.0\refint
 C:\Users\Barbo\Desktop\GeekBrains\Experiments\Experiment\obj\Debug\net7.0\Experiment.pdb
 C:\Users\Barbo\Desktop\GeekBrains\Experiments\Experiment\obj\Debug\net7.0\Experiment.genruntimeconfig.cache
 C:\Users\Barbo\Desktop\GeekBrains\Experiments\Experiment\obj\Debug\net7.0\ref\Experiment.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\obj\Debug\net7.0\Experiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\obj\Debug\net7.0\Experiment.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\obj\Debug\net7.0\Experiment.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\obj\Debug\net7.0\Experiment.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\obj\Debug\net7.0\Experiment.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\obj\Debug\net7.0\refint\Experiment.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\obj\Debug\net7.0\Experiment.pdb
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\bin\Debug\net7.0\Experiment.exe
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\bin\Debug\net7.0\Experiment.deps.json
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\bin\Debug\net7.0\Experiment.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\bin\Debug\net7.0\Experiment.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\bin\Debug\net7.0\Experiment.pdb
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\obj\Debug\net7.0\Experiment.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Experiments\Experiment\obj\Debug\net7.0\ref\Experiment.dll

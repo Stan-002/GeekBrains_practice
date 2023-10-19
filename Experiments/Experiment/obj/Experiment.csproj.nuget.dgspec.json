@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Experiments\\Experiment\\Experiment.csproj": {}
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Experiments\\Experiment\\Experiment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Experiments\\Experiment\\Experiment.csproj": {
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Experiments\\Experiment\\Experiment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Experiments\\Experiment\\Experiment.csproj",
+        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Experiments\\Experiment\\Experiment.csproj",
         "projectName": "Experiment",
-        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Experiments\\Experiment\\Experiment.csproj",
+        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Experiments\\Experiment\\Experiment.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Experiments\\Experiment\\obj\\",
+        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Experiments\\Experiment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
