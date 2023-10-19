@@ -6,60 +6,7 @@
 
  */
 
-using System;
-Console.Clear();
 
-int[] GetRandomArray(int size)
-{
-    int[] array = new int[size];
-    for (int i = 0; i < size; i++)
-    {
-        array[i] = new Random().Next(0, 10);
-    }
-    return array;
-}
-
-void PrintArray(int[] arr)
-{
-
-    System.Console.Write("[");
-    for (int i = 0; i < arr.Length; i++)
-    {
-        System.Console.Write(arr[i]);
-
-        if (i < arr.Length - 1) System.Console.Write(", ");// [5, 7, 1, 4
-
-    }
-
-    System.Console.Write("]");
-}
-
-int[] ProductArray(int[] pArr)
-{
-    int[] result = new int[pArr.Length / 2];
-    int sum = 0;
-    if (pArr.Length % 2 == 1)
-    {
-        middle = pArr[pArr.Length / 2 + 1];
-    }
-
-    for (int i = 0; i <= pArr.Length / 2; i++)
-    {
-        sum = pArr[i] * pArr[pArr.Length - 1 - i];
-        result[i] = sum;
-    }
-
-    return result;
-}
-
-int[] userArray = GetRandomArray(6);
-PrintArray(userArray);
-System.Console.WriteLine();
-int[] newArray = ProductArray(userArray);
-PrintArray(newArray);
-
-
-/* 
 
 using System;
 Console.Clear();
@@ -108,4 +55,3 @@ System.Console.WriteLine();
 int[] newArray = ProductArray(userArray);
 PrintArray(newArray);
 
- */
