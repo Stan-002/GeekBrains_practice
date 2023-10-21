@@ -31,27 +31,37 @@ using System;
 public class Answer
 {
     public static int CountEvenElements(int[] array)
-    { 
-    // Введите свое решение ниже
-
-    
+    {
+        // Введите свое решение ниже
+        int count = 0;
+        foreach (int number in array)
+        {
+            if (number % 2 == 0)
+            {
+                count++;
+            }
+        }
+        return count;
     }
 
     public static void PrintArray(int[] array)
     {
-    // Введите свое решение ниже
-
-
+        // Введите свое решение ниже
+        foreach (int number in array)
+        {
+            Console.Write($"{number}\t");
+        }
+        Console.WriteLine();
     }
 
 
-// Не удаляйте и не меняйте метод Main! 
+    // Не удаляйте и не меняйте метод Main! 
     public static void Main(string[] args)
     {
         int[] array;
         if (args.Length == 0)
         {
-           // Здесь вы можете поменять значения для отправки кода на Выполнение
+            // Здесь вы можете поменять значения для отправки кода на Выполнение
             array = new int[] { 100, 102, 105, 166, 283, 764, 300, 499, 133 };
         }
         else

@@ -5,6 +5,66 @@
 
 */
 
+
+int[] CreateArray(int size, int min, int max)
+{
+    var random = new Random();
+
+    int[] arr = new int[size];
+    for (int i = 0; i < size; i++)
+    {
+        arr[i] = random.Next(min, max + 1);
+    }
+    return arr;
+}
+
+void Output(int[] arr)
+{
+
+    for (int i = 0; i < arr.Length; i++)
+    {
+        Console.Write(arr[i] + " ");
+    }
+}
+
+int SumPositiv(int[] abrakadabra)
+{
+    int sum = 0;
+    for (int i = 0; i < abrakadabra.Length; i++)
+    {
+        if (abrakadabra[i] > 0)
+        {
+            sum = abrakadabra[i] + sum;
+        }
+    }
+    return sum;
+}
+
+int SumNegativ(int[] ahalaimahalai)
+{
+    int sum = 0;
+    for (int i = 0; i < ahalaimahalai.Length; i++)
+    {
+        if (ahalaimahalai[i] < 0)
+        {
+            sum = ahalaimahalai[i] + sum;
+        }
+    }
+    return sum;
+}
+
+int[] arr = CreateArray(12, -9, 9);
+
+Output(arr);
+
+int sump = SumPositiv(arr);
+int sumn = SumNegativ(arr);
+System.Console.WriteLine();
+Console.WriteLine($"Сумма положительных равна: {sump}, Сумма отрицательных равна: {sumn}");
+
+
+/* 
+
 using System;
 Console.Clear();
 
@@ -70,3 +130,5 @@ int posArraySum = SumPositiveNum(userArray);
 int negArraySum = SumNegativeNum(userArray);
 
 System.Console.WriteLine($"Sum of positive numbers {posArraySum}, sum of negative numbers {negArraySum}.");
+
+*/

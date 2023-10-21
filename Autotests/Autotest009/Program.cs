@@ -27,27 +27,45 @@ public class Answer
 {
     public static int SumOddElements(int[] array)
     {
-// Введите свое решение ниже
-
-
+        // Введите свое решение ниже
+        int sum = 0;
+        for (int i = 1; i < array.Length; i = i + 2)
+        {
+            sum += array[i];
+        }
+        return sum;
     }
 
     public static void PrintArray(int[] array)
     {
-         // Введите свое решение ниже
+        // Введите свое решение ниже
 
+        for (int i = 0; i < array.Length; i++)
+        {
+            Console.Write(array[i]);
+            if (i < array.Length - 1) // Проверяем, не последний ли элемент
+            {
+                Console.Write("\t"); // Добавляем табуляцию после всех элементов, кроме последнего
+            }
+        }
+        Console.WriteLine();
 
+        // foreach (int number in array)
+        // {
+        //     Console.Write($"{number}\t");
+        // }
+        // Console.WriteLine();
     }
 
 
-// Не удаляйте и не меняйте метод Main! 
+    // Не удаляйте и не меняйте метод Main! 
     public static void Main(string[] args)
     {
         int[] array;
         if (args.Length == 0)
         {
-           // Здесь вы можете поменять значения для отправки кода на Выполнение
-            array = new int[] { 12, 64, 28, 93, 35, 47, 6, 72, 58, 21 };
+            // Здесь вы можете поменять значения для отправки кода на Выполнение
+            array = new int[] { 12, 64, 28, 93, 35, 47, 6, 72, 58, 21 };// 
         }
         else
         {
@@ -66,10 +84,51 @@ public class Answer
                 }
             }
         }
-
+                    
         // Не удаляйте строки ниже
         PrintArray(array);
         int sumOdd = SumOddElements(array);
         Console.WriteLine($"Сумма нечетных элементов: {sumOdd}");
     }
 }
+
+
+/* 
+
+ foreach (int number in array)
+        {
+            if (number / 2 != 0)
+            {
+                count += number;
+            }
+        }
+        return count;
+
+В вашем решении ошибка в логике проверки нечетности индекса. Обратите внимание, 
+что индексы массива начинаются с 0, 
+поэтому условие `number % 2 == 1` неправильно выбирает элементы с нечетными индексами. 
+Подумайте о правильном условии для проверки нечетности индекса.
+
+int index = 5;
+if (index % 2 == 1)
+{
+    // Индекс нечетный
+}
+
+
+int index = 5;
+if ((index & 1) == 1)
+{
+    // Индекс нечетный
+}
+
+
+int index = 5;
+if (index / 2 != 0)
+{
+    // Индекс нечетный
+}
+
+
+
+ */

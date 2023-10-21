@@ -10,6 +10,47 @@
 
 */
 
+int[] CreateArray(int size, int min, int max)
+{
+    var random = new Random();
+
+    int[] arr = new int[size];
+    for (int i = 0; i < size; i++)
+    {
+        arr[i] = random.Next(min, max);
+    }
+    return arr;
+}
+
+void Output(int[] arr)
+{
+    System.Console.Write("[");
+    for (int i = 0; i < arr.Length; i++)
+    {
+        Console.Write(arr[i]);
+        if (i < arr.Length - 1)
+            System.Console.Write(", ");
+    }
+    System.Console.WriteLine("]"); // задает следующую строку
+}
+
+void Count(int[] arr)
+{
+    int count = 0;
+    for (int i = 0; i < arr.Length; i++)
+    {
+        if (arr[i] > 9 && arr[i] < 100)
+            count++;
+    }
+    System.Console.WriteLine(count);
+}
+
+int[] arr = CreateArray(12, 0, 150);
+Output(arr);
+Count(arr);
+
+/* 
+
 using System;
 Console.Clear();
 
@@ -61,3 +102,6 @@ int userArrayEnd = TakeEntNum("Please, enter array end number range:");
 int[] userArray = GetRandomArray(userArrayStart, userArrayEnd, userArraySize);
 PrintArray(userArray);
 System.Console.WriteLine(Change1Array(userArray));
+
+ */
+
