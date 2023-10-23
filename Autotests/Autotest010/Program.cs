@@ -31,33 +31,44 @@ using System;
 public class Answer
 {
     public static double FindMax(double[] array)
-    {     // Введите свое решение ниже
-    
-    
-       
+    {
+        double max = array[0];
+        for (int i = 1; i < array.Length; i++)
+        {
+            if (max < array[i])
+            {
+                max = array[i];
+            }
+        }
+        return max;
     }
 
     public static double FindMin(double[] array)
-    {     // Введите свое решение ниже
-
-    
-
+    {
+        double min = array[0];
+        for (int i = 1; i < array.Length; i++)
+        {
+            if (min > array[i])
+            {
+                min = array[i];
+            }
+        }
+        return min;
     }
 
     public static double CalcDifferenceBetweenMaxMin(double[] array)
-    {// Введите свое решение ниже
-
-    
-
+    {
+        return FindMax(array) - FindMin(array);
     }
 
     public static void PrintArray(double[] array)
-    {// Введите свое решение ниже
-
-
+    {
+        foreach (double number in array)
+        {
+            Console.Write($"{number:f2}\t");
+        }
+        Console.WriteLine();
     }
- // Не удаляйте и не меняйте метод Main! 
-
 
     public static void Main(string[] args)
     {
