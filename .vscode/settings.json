@@ -2,6 +2,7 @@
 //     "debug.onTaskErrors": "showErrors"
 // }
 {
+    
     "csharp.format.enable": true,
     "csharp.format.enableEditorConfigSupport": true,
     "csharp.linting.enable": true,

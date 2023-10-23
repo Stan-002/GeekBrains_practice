@@ -33,21 +33,21 @@ public class Answer
     public static double FindMax(double[] array)
     {     // Введите свое решение ниже
     
-
+    
        
     }
 
     public static double FindMin(double[] array)
     {     // Введите свое решение ниже
 
-
+    
 
     }
 
     public static double CalcDifferenceBetweenMaxMin(double[] array)
     {// Введите свое решение ниже
 
-
+    
 
     }
 
