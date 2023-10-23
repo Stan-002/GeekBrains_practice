@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotest(Работает)s\\Autotest(Работает)001\\Autotest(Работает)001.csproj": {}
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Autotests\\Autotest001\\Autotest001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotest(Работает)s\\Autotest(Работает)001\\Autotest(Работает)001.csproj": {
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Autotests\\Autotest001\\Autotest001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotest(Работает)s\\Autotest(Работает)001\\Autotest(Работает)001.csproj",
-        "projectName": "Autotest(Работает)001",
-        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotest(Работает)s\\Autotest(Работает)001\\Autotest(Работает)001.csproj",
+        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Autotests\\Autotest001\\Autotest001.csproj",
+        "projectName": "Autotest001",
+        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Autotests\\Autotest001\\Autotest001.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotest(Работает)s\\Autotest(Работает)001\\obj\\",
+        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Autotests\\Autotest001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

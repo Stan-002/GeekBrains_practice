@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example012_Methods\\Example012_Methods.csproj": {}
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example012_Methods\\Example012_Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example012_Methods\\Example012_Methods.csproj": {
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example012_Methods\\Example012_Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example012_Methods\\Example012_Methods.csproj",
+        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example012_Methods\\Example012_Methods.csproj",
         "projectName": "Example012_Methods",
-        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example012_Methods\\Example012_Methods.csproj",
+        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example012_Methods\\Example012_Methods.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example012_Methods\\obj\\",
+        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example012_Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

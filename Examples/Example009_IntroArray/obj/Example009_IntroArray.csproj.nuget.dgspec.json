@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj": {}
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj": {
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj",
+        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj",
         "projectName": "Example009_IntroArray",
-        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj",
+        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example009_IntroArray\\Example009_IntroArray.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example009_IntroArray\\obj\\",
+        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example009_IntroArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

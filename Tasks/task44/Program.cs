@@ -39,6 +39,42 @@ public class Program044
 
 /* 
 
+100% Решение Радика
+using System;
+Console.Clear();
+
+int TakeEnteredNumber(string message)
+{
+    System.Console.WriteLine(message);
+    int result = Convert.ToInt32(Console.ReadLine());
+    return result;
+}
+
+int userNumber = TakeEnteredNumber("Enter number: ");
+
+string FebonchiNumber(int a)
+{
+    string result = "";
+    int summ = 0;
+    if(a == 0) result = result + "0";
+    if(a == 1) result = result + "0 1";
+    if (a > 1)
+    {
+        for (int i = 0; i <= a; i++)
+        {
+            result = result + i;    
+        }
+    }
+    return result;
+
+}
+
+System.Console.WriteLine(FebonchiNumber(userNumber));
+
+*/
+
+/* 
+
 //Элина Низамутдинова
 Console.WriteLine("Введите число");
 int number = Convert.ToInt32(Console.ReadLine());

@@ -5,11 +5,12 @@ using System;
 
 void Message(string user)
 {
+
 	if (user == "Аня")
 	{
 		System.Console.WriteLine("Привет, Аннечка Милая, как ты?");
 	}
-	else if (user != "Аня")
+	else
 	{
 		System.Console.WriteLine("О привет");
 	}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotests\\Autotest005\\Autotest005.csproj",
+      "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Autotests\\Autotest005\\Autotest005.csproj",
       "projectName": "Autotest005",
-      "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotests\\Autotest005\\Autotest005.csproj",
+      "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Autotests\\Autotest005\\Autotest005.csproj",
       "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Autotests\\Autotest005\\obj\\",
+      "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Autotests\\Autotest005\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",

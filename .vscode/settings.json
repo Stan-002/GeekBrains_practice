@@ -1,3 +1,16 @@
+// {
+//     "debug.onTaskErrors": "showErrors"
+// }
 {
-    "debug.onTaskErrors": "showErrors"
+    "csharp.format.enable": true,
+    "csharp.format.enableEditorConfigSupport": true,
+    "csharp.linting.enable": true,
+    "csharp.linting.enableRoslynAnalyzers": true,
+    "csharp.linting.run": "onSave",
+    "csharp.linting.provider": "roslyn",
+    "csharp.linting.mode": "save",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "editor.codeActionsOnSaveTimeout": 15000
 }

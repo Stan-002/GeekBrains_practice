@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj": {}
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj": {
+    "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
+        "projectUniqueName": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
         "projectName": "Example008_IntroMethod",
-        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
+        "projectPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
         "packagesPath": "C:\\Users\\Barbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains\\Examples\\Example008_IntroMethod\\obj\\",
+        "outputPath": "C:\\Users\\Barbo\\Desktop\\GeekBrains_practice\\Examples\\Example008_IntroMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Barbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
