@@ -8,6 +8,8 @@
 
  */
 
+
+/*
 Console.Clear();
 
 int[] FillArray(int size)
@@ -54,8 +56,8 @@ PrintArray(userArray);
 int summa = Number(userArray);
 System.Console.WriteLine(summa);
 
+*/
 
-/* 
 
 Console.Clear();
 
@@ -101,5 +103,5 @@ PrintArray(array);
 Console.WriteLine();
 SumNegIdx(array);
 
- */
+
 

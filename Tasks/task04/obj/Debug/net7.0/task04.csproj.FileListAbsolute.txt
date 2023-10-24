@@ -26,3 +26,17 @@ C:\Users\Barbo\Desktop\GeekBrains\Tasks\task04\obj\Debug\net7.0\refint\task04.dl
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task04\obj\Debug\net7.0\task04.pdb
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task04\obj\Debug\net7.0\task04.genruntimeconfig.cache
 C:\Users\Barbo\Desktop\GeekBrains\Tasks\task04\obj\Debug\net7.0\ref\task04.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\bin\Debug\net7.0\task04.exe
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\bin\Debug\net7.0\task04.deps.json
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\bin\Debug\net7.0\task04.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\bin\Debug\net7.0\task04.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\bin\Debug\net7.0\task04.pdb
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\obj\Debug\net7.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\obj\Debug\net7.0\task04.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\obj\Debug\net7.0\task04.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\obj\Debug\net7.0\task04.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\obj\Debug\net7.0\task04.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\obj\Debug\net7.0\refint\task04.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\obj\Debug\net7.0\task04.pdb
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\obj\Debug\net7.0\task04.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Tasks\task04\obj\Debug\net7.0\ref\task04.dll
