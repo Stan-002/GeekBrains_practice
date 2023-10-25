@@ -5,6 +5,13 @@
 b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
  */
+
+
+
+
+
+/*  
+
 Console.Clear();
 
 System.Console.WriteLine("Введите значения переменных: ");
@@ -23,3 +30,6 @@ double k2 = double.Parse(Console.ReadLine());
 (double x, double y) result = FindIntersection(b1, k1, b2, k2);
 
 System.Console.WriteLine($"Найдена точка пересечения двух прямых -> x: {result.x}, y: {result.y}");
+
+
+*/
