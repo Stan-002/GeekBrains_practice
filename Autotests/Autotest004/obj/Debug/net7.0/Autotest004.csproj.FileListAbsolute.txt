@@ -12,3 +12,17 @@ C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest004\obj\Debug\net7.0\refint\
 C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest004\obj\Debug\net7.0\Autotest004.pdb
 C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest004\obj\Debug\net7.0\Autotest004.genruntimeconfig.cache
 C:\Users\Barbo\Desktop\GeekBrains\Autotests\Autotest004\obj\Debug\net7.0\ref\Autotest004.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\bin\Debug\net7.0\Autotest004.exe
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\bin\Debug\net7.0\Autotest004.deps.json
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\bin\Debug\net7.0\Autotest004.runtimeconfig.json
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\bin\Debug\net7.0\Autotest004.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\bin\Debug\net7.0\Autotest004.pdb
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\obj\Debug\net7.0\Autotest004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\obj\Debug\net7.0\Autotest004.AssemblyInfoInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\obj\Debug\net7.0\Autotest004.AssemblyInfo.cs
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\obj\Debug\net7.0\Autotest004.csproj.CoreCompileInputs.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\obj\Debug\net7.0\Autotest004.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\obj\Debug\net7.0\refint\Autotest004.dll
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\obj\Debug\net7.0\Autotest004.pdb
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\obj\Debug\net7.0\Autotest004.genruntimeconfig.cache
+C:\Users\Barbo\Desktop\GeekBrains_practice\Autotests\Autotest004\obj\Debug\net7.0\ref\Autotest004.dll

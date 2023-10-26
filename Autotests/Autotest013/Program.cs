@@ -1,5 +1,7 @@
 ﻿/* 
 
+Autotest(Работает)013:
+
 Среднее арифметическое каждого столбца
 
 Внутри класса Answer напишите методы CreateIncreasingMatrix, PrintArray, PrintListAvr и FindAverageInColumns.

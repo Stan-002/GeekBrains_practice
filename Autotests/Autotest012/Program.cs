@@ -1,5 +1,7 @@
 ﻿/* 
 
+Autotest(Работает)012:
+
 Поиск элемента по позиции
 
 Внутри класса Answer напишите методы CreateIncreasingMatrix, PrintArray, FindNumberByPosition и PrintCheckIfError.

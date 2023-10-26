@@ -1,5 +1,7 @@
 ﻿/* 
 
+Autotest(Работает)011:
+
 Создание двумерного массива
 
 Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
@@ -31,7 +33,7 @@ public class Answer
     public static double[,] CreateRandomMatrix(int m, int n, int minLimitRandom, int maxLimitRandom)
     {
         // Введите свое решение ниже
-
+        
 
     }
 

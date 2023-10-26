@@ -1,4 +1,43 @@
-﻿using System;
+﻿/* 
+
+Autotest(Работает)001: 
+
+Внутри класса Answer напишите метод CompareNumbers, который на вход принимает два числа и выводит, какое число большее, а какое меньшее.
+
+Пример использования:
+
+На входе:
+
+firstNumber: '5'
+secondNumber: '6'
+
+На выходе:
+
+Первое число `5` меньше чем второе число `6`
+
+На входе:
+
+firstNumber: '3'
+secondNumber: '6'
+
+На выходе:
+
+Первое число `3` меньше чем второе число `6`
+
+На входе:
+
+firstNumber: '3'
+secondNumber: '3'
+
+На выходе:
+
+Введенные числа равны `3`
+
+ */
+
+ 
+
+ using System;
 
 public class Answer {
     static void CompareNumbers(int firstNumber, int secondNumber)

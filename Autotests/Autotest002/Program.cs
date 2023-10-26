@@ -1,5 +1,15 @@
-﻿using System;
+﻿/* 
 
+Autotest(Работает)002:
+
+Внутри класса Answer напишите метод FindMax, который принимает на вход три числа и выдаёт максимальное из этих чисел.
+
+ */
+
+
+
+ using System;
+ 
 public class Answer
 {
     static int FindMax(int a, int b, int c)
