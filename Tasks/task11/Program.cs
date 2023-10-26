@@ -1,11 +1,6 @@
-﻿using System.Security.AccessControl;
-using System.Dynamic;
-using Microsoft.VisualBasic.CompilerServices;
-using System;
+﻿/*
 
-/*
-
-11. Напишите программу,
+Задача 11: Напишите программу,
 которая выводит случайное трёхзначное число
 и удаляет вторую цифру этого числа.
 

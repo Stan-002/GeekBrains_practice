@@ -11,7 +11,7 @@
 	}
 }
 
-Console.Clear();
+
 Console.WriteLine("Введите имя пользователя: ");
 string user = Console.ReadLine();
 Message(user);

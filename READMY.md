@@ -583,6 +583,22 @@ task()45.
 с помощью поэлементного копирования.
 
 
+
+public static int CountEvenElements(int[] array)
+    {
+        int count = 0;
+        foreach (int number in array)
+        {
+            if (number % 2 == 0)
+            {
+                count++;
+            }
+        }
+        return count;
+    }
+
+
+
 using System;
 
 public class Answer
