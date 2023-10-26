@@ -1,22 +1,17 @@
-﻿using System.Dynamic;
-using System;
-
-
-
-void Message(string user)
+﻿void Message(string user)
 {
 
 	if (user == "Аня")
 	{
-		System.Console.WriteLine("Привет, Аннечка Милая, как ты?");
+		Console.WriteLine("Привет, Аннечка Милая, как ты?");
 	}
 	else
 	{
-		System.Console.WriteLine("О привет");
+		Console.WriteLine("О привет");
 	}
 }
 
 Console.Clear();
-System.Console.WriteLine("Введите имя пользователя: ");
+Console.WriteLine("Введите имя пользователя: ");
 string user = Console.ReadLine();
 Message(user);
