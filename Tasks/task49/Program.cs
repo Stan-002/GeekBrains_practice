@@ -42,7 +42,7 @@ int[,] GetRandom2DArray(int start, int end, int row, int column)
     return array;
 }
 
-int [,] ModifyEvenIndexSquare (int[,] array)
+int[,] ModifyEvenIndexSquare (int[,] array)
 {
     int[,] result = array;
     for (int i = 0; i < array.GetLength(0); i++)
