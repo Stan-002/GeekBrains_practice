@@ -9,8 +9,6 @@ m = 3, n = 4.
 
  */
 
-
-
 int TakeEnteredNumber(string message)
 {
     System.Console.WriteLine(message);
