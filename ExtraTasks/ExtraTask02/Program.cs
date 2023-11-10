@@ -34,32 +34,3 @@ class Program
         return array;
     }
 }
-
-// int min = array.Min();
-// int max = array.Max();
-
-
-
-
-/* 
-
-void Output(int[] array)
-    {
-        Console.WriteLine("Введите количество элементов массива:");
-        int n = Convert.ToInt32(Console.ReadLine());
-
-        int[] array = new int[n];
-
-        Console.WriteLine("Введите элементы массива:");
-        for (int i = 0; i < n; i++)
-        {
-            array[i] = Convert.ToInt32(Console.ReadLine());
-        }
-
-        int min = array.Min();
-        int max = array.Max();
-
-        Console.WriteLine("Минимальное число массива: " + min);
-        Console.WriteLine("Максимальное число массива: " + max);
-    }
- */
