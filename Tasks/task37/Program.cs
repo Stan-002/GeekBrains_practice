@@ -40,7 +40,7 @@ int[] MultArray(int[] array) //[6 7 1 5 6 2 3 8] -> 48 21 2 30
             result[i] = array[i];
             break; //заканчивает цикл
         }
-        temp = array[i] array[array.Length - 1 - i]; // первый элемент массива умножается на последний элемент и далее
+        temp = array[i] * array[array.Length - 1 - i]; // первый элемент массива умножается на последний элемент и далее
         result[i] = temp;
     }
     return result;
