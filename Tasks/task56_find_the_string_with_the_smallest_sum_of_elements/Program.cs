@@ -8,6 +8,9 @@
 
 using System.Configuration.Assemblies;
 
+/* 
+
+Не решено!
 
 internal class Array2D
 {
@@ -22,8 +25,8 @@ internal class Array2D
         int[][] arr1 = new int[low][];
         int[][] arr2 = new int[high][];
 
-        
-        
+
+
         QuickSort(arr1, 0, arr1.Length - 1);//Здесь
         QuickSort(arr2, 0, arr2.Length - 1);
 
@@ -40,7 +43,7 @@ internal class Array2D
                 QuickSort(array, pivotIndex + 1, high);
             }
 
-            
+
             static void Swap(int[][] array, int index1, int index2)
             {
                 int[] temp = array[index1];
@@ -92,3 +95,9 @@ internal class Array2D
         }
     }
 }
+
+
+
+
+
+ */
