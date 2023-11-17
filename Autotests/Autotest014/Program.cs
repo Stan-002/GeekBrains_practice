@@ -29,25 +29,45 @@ MinimumSumRow(int[,] matrix): Метод для определения стро�
  */
 
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 public class Answer
 {
+
     public static void PrintMatrix(int[,] matrix)
     {
-// Введите свое решение ниже
-    
+        // Введите свое решение ниже
+        for (int i = 0; i < matrix.GetLength(0); i++)
+        {
+            for (int j = 0; j < matrix.GetLength(1); j++)
+            {
+                Console.Write(matrix[i, j] + "       ");
+            }
+            Console.WriteLine();
+        }
     }
 
-
+    
     public static void SortRowsDescending(int[,] matrix)
     {
-// Введите свое решение ниже
-        
-
+        // Введите свое решение ниже
+        for (int i = 0; i < matrix.GetLength(0); i++)
+        {
+            List<int> row = new List<int>();
+            for (int j = 0; j < matrix.GetLength(1); j++)
+            {
+                row.Add(matrix[i, j]);
+            }
+            row = row.OrderByDescending(x => x).ToList();
+            for (int j = 0; j < matrix.GetLength(1); j++)
+            {
+                matrix[i, j] = row[j];
+            }
+        }
     }
 
-
-// Не удаляйте и не меняйте метод Main! 
+    // Не удаляйте и не меняйте метод Main! 
     public static void Main(string[] args)
     {
         int[,] matrix;
