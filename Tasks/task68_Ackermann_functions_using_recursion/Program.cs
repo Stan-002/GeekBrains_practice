@@ -17,20 +17,17 @@ class Program
         System.Console.WriteLine("Введите число n: ");
         int n = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine(PrintNumbers(m, n));
-        
     }
     static int PrintNumbers(int m, int n)
     {
-
-        // Базовый случай
         if (m == 0)
         {
             return n + 1;
-        } // Шаг рекурсии / рекурсивное условие
+        }
         else if (n == 0 && m > 0)
         {
             return PrintNumbers(m - 1, 1);
-        } // Шаг рекурсии / рекурсивное условие
+        }
         else
         {
             return PrintNumbers(m - 1, PrintNumbers(m, n - 1));
