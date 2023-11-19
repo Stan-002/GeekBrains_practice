@@ -8,9 +8,7 @@
 
 using System.Configuration.Assemblies;
 
-/* 
 
-Не решено!
 
 internal class Array2D
 {
@@ -95,9 +93,3 @@ internal class Array2D
         }
     }
 }
-
-
-
-
-
- */
