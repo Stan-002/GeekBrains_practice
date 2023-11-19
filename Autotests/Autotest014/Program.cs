@@ -29,63 +29,47 @@ MinimumSumRow(int[,] matrix): Метод для определения стро�
  */
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
 
 public class Answer
 {
-    /// <summary>
-    /// Функция «PrintMatrix» печатает 2D-матрицу в табличном формате.
-    /// </summary>
-    /// <param name="matrix">Параметр «матрица» представляет собой двумерный массив целых чисел.</param>
-    public static void PrintMatrix(int[,] matrix)
+    public static int SumOfRow(int[,] matrix, int row)
     {
+        // Введите свое решение ниже
+        int sum = 0;
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            sum += matrix[row, j];
+        }
+        return sum;
+    }
+
+    public static int[] MinimumSumRow(int[,] matrix)
+    {
+        // Введите свое решение ниже
+        int[] RowNumberAndSum = new int[2];
+        RowNumberAndSum[1] = SumOfRow(matrix, RowNumberAndSum[0]);
         for (int i = 0; i < matrix.GetLength(0); i++)
         {
-            for (int j = 0; j < matrix.GetLength(1); j++)
+            if (RowNumberAndSum[1] > SumOfRow(matrix, i))
             {
-                Console.Write($"{matrix[i, j]}\t");
-            }
-            Console.WriteLine();
-        }
-    }
-
-    /// <summary>
-    /// Функция SortRowsDescending сортирует строки двумерного массива в порядке убывания.
-    /// </summary>
-    /// <param name="matrix">Параметр «матрица» представляет собой двумерный массив целых чисел. Он
-    /// представляет собой матрицу со строками и столбцами.</param>
-    public static void SortRowsDescending(int[,] matrix)
-    {
-        int j = 0;
-        int k = 0;
-        for (int i = 0; i < matrix.GetLength(0); i++)               
-        {
-            for (j = 0; j < matrix.GetLength(1); j++)                
-            {
-                int max = j;
-                for (k = j; k < matrix.GetLength(1); k++)            
-                {
-                    if (matrix[i, max] < matrix[i, k])                                                                   
-                    {
-                        max = k;
-                    }
-                }
-                var temp = matrix[i, max];                      
-                matrix[i, max] = matrix[i, j];
-                matrix[i, j] = temp;
+                RowNumberAndSum[0] = i;
+                RowNumberAndSum[1] = SumOfRow(matrix, RowNumberAndSum[0]);
             }
         }
+        return RowNumberAndSum;
     }
 
-
+    // Не удаляйте и не меняйте метод Main! 
     public static void Main(string[] args)
     {
         int[,] matrix;
         if (args.Length == 0)
         {
+            // Здесь вы можете поменять значения для отправки кода на Выполнение
             // Если аргументы не переданы, используем матрицу по умолчанию
-            matrix = new int[,] {
+
+            matrix = new int[,]
+            {
                 {5, 2, 9},
                 {8, 1, 4},
                 {6, 7, 3}
@@ -99,11 +83,6 @@ public class Answer
             for (int i = 0; i < rows.Length; i++)
             {
                 string[] elements = rows[i].Split(',');
-                if (elements.Length != matrix.GetLength(1))
-                {
-                    Console.WriteLine($"Ошибка: Неправильное количество элементов в строке {i + 1}.");
-                    return;
-                }
                 for (int j = 0; j < elements.Length; j++)
                 {
                     if (int.TryParse(elements[j], out int number))
@@ -120,11 +99,21 @@ public class Answer
         }
 
         Console.WriteLine("Исходная матрица:");
-        PrintMatrix(matrix);
+        for (int i = 0; i < matrix.GetLength(0); i++)
+        {
+            for (int j = 0; j < matrix.GetLength(1); j++)
+            {
+                Console.Write($"{matrix[i, j]}\t");
+            }
+            Console.WriteLine();
+        }
 
-        SortRowsDescending(matrix);
+        int[] minSumRow = MinimumSumRow(matrix);
 
-        Console.WriteLine("\nМатрица с упорядоченными по убыванию строками:");
-        PrintMatrix(matrix);
+        Console.WriteLine($"\nСумма наименьшей строки (строка {minSumRow[0] + 1}): {minSumRow[1]}");
+
+        int rowToSum = 1;
+        int sum = SumOfRow(matrix, rowToSum);
+        Console.WriteLine($"Сумма элементов в строке {rowToSum + 1}: {sum}");
     }
 }

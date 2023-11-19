@@ -2,35 +2,31 @@
 
 Autotest(Задача)015:
 
-Умножения двух матриц
+Сортировка строк матрицы по убыванию
+
+Напишите программу для работы с матрицей целых чисел.
 
 Реализуйте класс MatrixOperations, который содержит следующие статические методы:
 
-MultiplyIfPossible(int[,] matrixA, int[,] matrixB): Метод для проверки, возможно ли умножения двух матриц matrixA и matrixB. Если число столбцов в матрице matrixA не равно числу строк в матрице matrixB, то выводится сообщение "It is impossible to multiply." В противном случае, вызывается метод MatrixMultiplication для умножения матриц, и результат выводится с помощью метода PrintMatrix.
+PrintMatrix(int[,] matrix): Метод для вывода матрицы на экран. Он принимает на вход двумерный массив целых чисел matrix и выводит его элементы в виде таблицы.
 
-MatrixMultiplication(int[,] matrixA, int[,] matrixB): Метод для умножения двух матриц matrixA и matrixB. Метод возвращает новую матрицу, которая представляет собой результат умножения матрицы matrixA на матрицу matrixB.
-
-PrintMatrix(int[,] matrix): Метод для вывода матрицы на консоль.
-
-Если аргументы не переданы, программа использует матрицы по умолчанию. Если аргументы переданы, программа парсит их в двумерные массивы целых чисел и выполняет умножение матриц.
+SortRowsDescending(int[,] matrix): Метод для сортировки строк матрицы по убыванию. Он принимает на вход двумерный массив целых чисел matrix и сортирует каждую строку матрицы так, чтобы элементы в каждой строке шли по убыванию.
 
 Аргументы, передаваемые в метод/функцию:
 
-'1,2;3,4'
+'9, 1, 7; 1, 2, 3; 4, 5, 6'
 
 На выходе:
 
 Исходная матрица:
-1   2   
-3   4   
+9   1   7   
+1   2   3   
+4   5   6   
 
-Matrix B:
-5   6   
-7   8   
-
-Multiplication result:
-19  22  
-43  50
+Матрица с упорядоченными по убыванию строками:
+9   7   1   
+3   2   1   
+6   5   4
 
  */
 
@@ -38,33 +34,57 @@ using System;
 
 public class Answer
 {
-    public static void MultiplyIfPossible(int[,] matrixA, int[,] matrixB)
-    { // Введите свое решение ниже
-
-       }
-
-    public static int[,] MatrixMultiplication(int[,] matrixA, int[,] matrixB)
-    {  // Введите свое решение ниже
-
-
-    }
-
     public static void PrintMatrix(int[,] matrix)
-    {  // Введите свое решение ниже
+    {
+        // Введите свое решение ниже
+        for (int i = 0; i < matrix.GetLength(0); i++)
+        {
+            for (int j = 0; j < matrix.GetLength(1); j++)
+            {
+                Console.Write($"{matrix[i, j]}\t");
+            }
+            Console.WriteLine();
+        }
+    }
+
+
+    public static void SortRowsDescending(int[,] matrix)
+    {
+        // Введите свое решение ниже
+        int j = 0;
+        int k = 0;
+        for (int i = 0; i < matrix.GetLength(0); i++)
+        {
+            for (j = 0; j < matrix.GetLength(1); j++)
+            {
+                int max = j;
+                for (k = j; k < matrix.GetLength(1); k++)
+                {
+                    if (matrix[i, max] < matrix[i, k])
+                    {
+                        max = k;
+                    }
+                }
+                var temp = matrix[i, max];
+                matrix[i, max] = matrix[i, j];
+                matrix[i, j] = temp;
+            }
+        }
 
     }
- // Не удаляйте и не меняйте метод Main! 
+
+
+    // Не удаляйте и не меняйте метод Main! 
     public static void Main(string[] args)
     {
         int[,] matrix;
-
         if (args.Length == 0)
         {
             // Если аргументы не переданы, используем матрицу по умолчанию
-            matrix = new int[,]
-            {
-                {5, 2},
-                {8, 1}
+            matrix = new int[,] {
+                {5, 2, 9},
+                {8, 1, 4},
+                {6, 7, 3}
             };
         }
         else
@@ -75,6 +95,11 @@ public class Answer
             for (int i = 0; i < rows.Length; i++)
             {
                 string[] elements = rows[i].Split(',');
+                if (elements.Length != matrix.GetLength(1))
+                {
+                    Console.WriteLine($"Ошибка: Неправильное количество элементов в строке {i + 1}.");
+                    return;
+                }
                 for (int j = 0; j < elements.Length; j++)
                 {
                     if (int.TryParse(elements[j], out int number))
@@ -93,16 +118,9 @@ public class Answer
         Console.WriteLine("Исходная матрица:");
         PrintMatrix(matrix);
 
-        int[,] matrixB = {
-            {5, 6},
-            {7, 8}
-        };
+        SortRowsDescending(matrix);
 
-        Console.WriteLine("\nMatrix B:");
-        PrintMatrix(matrixB);
-
-        Console.WriteLine("\nMultiplication result:");
-
-        MultiplyIfPossible(matrix, matrixB);
+        Console.WriteLine("\nМатрица с упорядоченными по убыванию строками:");
+        PrintMatrix(matrix);
     }
 }
