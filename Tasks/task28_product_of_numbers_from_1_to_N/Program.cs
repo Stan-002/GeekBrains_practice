@@ -11,9 +11,9 @@ int Number(int n)
 {
 	int num = 1;
 
-	for (int i = 1; i <= n;  i++)
+	for (int i = 1; i <= n; i++)
 	{
-		 num = num * i;
+		num = num * i;
 	}
 	return num;
 }

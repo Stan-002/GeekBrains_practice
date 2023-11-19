@@ -9,7 +9,7 @@
 using System.Configuration.Assemblies;
 
 
-
+//Недоделана
 internal class Array2D
 {
 

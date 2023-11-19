@@ -34,6 +34,10 @@ using System.Linq;
 
 public class Answer
 {
+    /// <summary>
+    /// Функция «PrintMatrix» печатает 2D-матрицу в табличном формате.
+    /// </summary>
+    /// <param name="matrix">Параметр «матрица» представляет собой двумерный массив целых чисел.</param>
     public static void PrintMatrix(int[,] matrix)
     {
         for (int i = 0; i < matrix.GetLength(0); i++)
@@ -46,23 +50,28 @@ public class Answer
         }
     }
 
+    /// <summary>
+    /// Функция SortRowsDescending сортирует строки двумерного массива в порядке убывания.
+    /// </summary>
+    /// <param name="matrix">Параметр «матрица» представляет собой двумерный массив целых чисел. Он
+    /// представляет собой матрицу со строками и столбцами.</param>
     public static void SortRowsDescending(int[,] matrix)
     {
         int j = 0;
         int k = 0;
-        for (int i = 0; i < matrix.GetLength(0); i++)               //checking all rows
+        for (int i = 0; i < matrix.GetLength(0); i++)               
         {
-            for (j = 0; j < matrix.GetLength(1); j++)                //Starting from each element in column
+            for (j = 0; j < matrix.GetLength(1); j++)                
             {
                 int max = j;
-                for (k = j; k < matrix.GetLength(1); k++)            // checking if any number is greater than in j-position
+                for (k = j; k < matrix.GetLength(1); k++)            
                 {
-                    if (matrix[i, max] < matrix[i, k])                         // if new max if found remeber its position                                          
+                    if (matrix[i, max] < matrix[i, k])                                                                   
                     {
                         max = k;
                     }
                 }
-                var temp = matrix[i, max];                      // Swap max and current j-position
+                var temp = matrix[i, max];                      
                 matrix[i, max] = matrix[i, j];
                 matrix[i, j] = temp;
             }

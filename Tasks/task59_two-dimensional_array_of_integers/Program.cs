@@ -18,7 +18,7 @@
  */
 
 
-//недоделана
+//Недоделана
 using System;
 Console.Clear();
 
