@@ -5,72 +5,71 @@
  */
 
 
-using System;
-
-namespace SpiralArray
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            int n = 3;
-            int[][] result = SpiralArray(n);
+        Console.WriteLine("Введите число одной стороны: ");
+        int n = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Введите число другой стороны: ");
+        int m = Convert.ToInt32(Console.ReadLine());
+        int[,] array = new int[n, m];
+        SpiralArray(array, n, m); 
+        PrintArray(array);
+    }
 
-            for (int i = 0; i < n; i++)
+    static void SpiralArray(int[,] array, int n, int m)
+    {
+        int number = 1;
+        int rowStart = 0;
+        int rowEnd = n - 1;
+        int colStart = 0;
+        int colEnd = m - 1;
+
+        while (number <= n * m)
+        {
+            // Print from left to right
+            for (int i = colStart; i <= colEnd; i++)
             {
-                for (int j = 0; j < n; j++)
-                {
-                    Console.Write(result[i][j] + " ");
-                }
-                Console.WriteLine();
+                array[rowStart, i] = number++;
             }
+            rowStart++;
+
+            // Print from top to bottom
+            for (int i = rowStart; i <= rowEnd; i++)
+            {
+                array[i, colEnd] = number++;
+            }
+            colEnd--;
+
+            // Print from right to left
+            for (int i = colEnd; i >= colStart; i--)
+            {
+                array[rowEnd, i] = number++;
+            }
+            rowEnd--;
+
+            // Print from bottom to top
+            for (int i = rowEnd; i >= rowStart; i--)
+            {
+                array[i, colStart] = number++;
+            }
+            colStart++;
         }
+    }
 
-        public static int[][] SpiralArray(int n)
+    static void PrintArray(int[,] array)
+    {
+        int n = array.GetLength(0);
+        int m = array.GetLength(1);
+
+        for (int i = 0; i < n; i++)
         {
-            
-            int[][] result = new int[n][];
-            for (int i = 0; i < n; i++)
-                result[i] = new int[n];
-
-            int currentNumber = 1;
-            int left = 0, right = n - 1, top = 0, bottom = n - 1;
-
-            while (true)
+            for (int j = 0; j < m; j++)
             {
-                
-                for (int i = left; i <= right; i++)
-                {
-                    result[top][i] = currentNumber++;
-                }
-                top++;
-                if (top > bottom || left > right) break;
-
-                // Going down
-                for (int i = top; i <= bottom; i++)
-                {
-                    result[i][right] = currentNumber++;
-                }
-                right--;
-                if (top > bottom || left > right) break;
-
-                // Going left
-                for (int i = right; i >= left; i--)
-                {
-                    result[bottom][i] = currentNumber++;
-                }
-                bottom--;
-                if (top > bottom || left > right) break;
-
-                // Going up
-                for (int i = bottom; i >= top; i--)
-                {
-                    result[i][left] = currentNumber++;
-                }
-                left++;
-                if (top > bottom || left > right) break;
+                Console.Write(array[i, j] + " ");
             }
-            return result;
+            Console.WriteLine();
         }
     }
 }
