@@ -71,7 +71,6 @@ int[] FindMinIndex(int[,] array)
                 delete[0] = i;
                 delete[1] = j;
             }
-
         }
     }
     return delete;
