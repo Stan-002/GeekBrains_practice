@@ -10,9 +10,104 @@
 
 
 //Недоделана
+// internal class Array2D
+// {
+
+//     private static void Main(string[] args)
+//     {
+//         Console.WriteLine("Введите размер строки. i: ");
+//         int low = Convert.ToInt32(Console.ReadLine());
+//         Console.WriteLine("Введите размер столбца. j: ");
+//         int high = Convert.ToInt32(Console.ReadLine());
+
+//         int[][] arr1 = new int[low][];
+//         int[][] arr2 = new int[high][];
+
+
+
+//         QuickSort(arr1, 0, arr1.Length - 1);//Здесь
+//         QuickSort(arr2, 0, arr2.Length - 1);
+
+
+
+//         static void QuickSort(int[][] array, int low, int high)
+//         {
+
+//             if (low < high)
+//             {
+//                 int pivotIndex = Partition(array, low, high);//Здесь
+
+//                 QuickSort(array, low, pivotIndex - 1);
+//                 QuickSort(array, pivotIndex + 1, high);
+//             }
+
+
+//             static void Swap(int[][] array, int index1, int index2)
+//             {
+//                 int[] temp = array[index1];
+//                 array[index1] = array[index2];
+//                 array[index2] = temp;
+//             }
+//             static int Partition(int[][] array, int low, int high)
+//             {
+//                 int[] pivot = array[high];
+//                 int i = low - 1;
+
+//                 for (int j = low; j < high; j++)
+//                 {
+//                     if (CompareArrays(array[j], pivot) > 0)//Здесь
+//                     {
+//                         i++;
+//                         Swap(array, i, j);
+//                     }
+//                 }
+//                 Swap(array, i + 1, high);
+//                 return i + 1;
+//             }
+//             static int CompareArrays(int[] arr1, int[] arr2)
+//             {
+//                 if (arr1.Length < arr2.Length)//Здесь
+//                 {
+//                     return -1;
+//                 }
+//                 else if (arr1.Length > arr2.Length)
+//                 {
+//                     return 1;
+//                 }
+//                 else
+//                 {
+//                     for (int i = 0; i < arr1.Length; i++)
+//                     {
+//                         if (arr1[i] < arr2[i])
+//                         {
+//                             return -1;
+//                         }
+//                         else if (arr1[i] > arr2[i])
+//                         {
+//                             return 1;
+//                         }
+//                     }
+//                     return 0;
+//                 }
+//             }
+//         }
+//     }
+// }
+
+
+
+
+
+/* 
+
+Размер массива (j) и его элементы являются 2D-массивами, но при этом сравнение проводится с массивами 1D-массивами.
+
+Необходимо добавить обработку случаев, когда массивы не сортируются из-за их размера (различный порядок).
+
+Если ваша задача - отсортировать массивы с массивами (j-1), вам нужно использовать другой подход.
+
 internal class Array2D
 {
-
     private static void Main(string[] args)
     {
         Console.WriteLine("Введите размер строки. i: ");
@@ -23,73 +118,71 @@ internal class Array2D
         int[][] arr1 = new int[low][];
         int[][] arr2 = new int[high][];
 
-
-
-        QuickSort(arr1, 0, arr1.Length - 1);//Здесь
+        QuickSort(arr1, 0, arr1.Length - 1);
         QuickSort(arr2, 0, arr2.Length - 1);
+    }
 
-
-
-        static void QuickSort(int[][] array, int low, int high)
+    static void QuickSort(int[][] array, int low, int high)
+    {
+        if (low < high)
         {
+            int pivotIndex = Partition(array, low, high);
 
-            if (low < high)
+            QuickSort(array, low, pivotIndex - 1);
+            QuickSort(array, pivotIndex + 1, high);
+        }
+
+        static void Swap(int[][] array, int index1, int index2)
+        {
+            int[] temp = array[index1];
+            array[index1] = array[index2];
+            array[index2] = temp;
+        }
+
+        static int Partition(int[][] array, int low, int high)
+        {
+            int[] pivot = array[high];
+            int i = low - 1;
+
+            for (int j = low; j < high; j++)
             {
-                int pivotIndex = Partition(array, low, high);//Здесь
-
-                QuickSort(array, low, pivotIndex - 1);
-                QuickSort(array, pivotIndex + 1, high);
-            }
-
-
-            static void Swap(int[][] array, int index1, int index2)
-            {
-                int[] temp = array[index1];
-                array[index1] = array[index2];
-                array[index2] = temp;
-            }
-            static int Partition(int[][] array, int low, int high)
-            {
-                int[] pivot = array[high];
-                int i = low - 1;
-
-                for (int j = low; j < high; j++)
+                if (CompareArrays(array[j], pivot) > 0)
                 {
-                    if (CompareArrays(array[j], pivot) > 0)//Здесь
+                    i++;
+                    Swap(array, i, j);
+                }
+            }
+            Swap(array, i + 1, high);
+            return i + 1;
+        }
+
+        static int CompareArrays(int[] arr1, int[] arr2)
+        {
+            if (arr1.Length < arr2.Length)
+            {
+                return -1;
+            }
+            else if (arr1.Length > arr2.Length)
+            {
+                return 1;
+            }
+            else
+            {
+                for (int i = 0; i < arr1.Length; i++)
+                {
+                    if (arr1[i] < arr2[i])
                     {
-                        i++;
-                        Swap(array, i, j);
+                        return -1;
+                    }
+                    else if (arr1[i] > arr2[i])
+                    {
+                        return 1;
                     }
                 }
-                Swap(array, i + 1, high);
-                return i + 1;
-            }
-            static int CompareArrays(int[] arr1, int[] arr2)
-            {
-                if (arr1.Length < arr2.Length)//Здесь
-                {
-                    return -1;
-                }
-                else if (arr1.Length > arr2.Length)
-                {
-                    return 1;
-                }
-                else
-                {
-                    for (int i = 0; i < arr1.Length; i++)
-                    {
-                        if (arr1[i] < arr2[i])
-                        {
-                            return -1;
-                        }
-                        else if (arr1[i] > arr2[i])
-                        {
-                            return 1;
-                        }
-                    }
-                    return 0;
-                }
+                return 0;
             }
         }
     }
 }
+
+ */
