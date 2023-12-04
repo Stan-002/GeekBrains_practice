@@ -17,18 +17,52 @@ class Program
 {
     static void Main()
     {
-        for (int i = 0; i < length; i++)
+        string[] array1 = { "Hello", "2", "world", ":-)" };
+        string[] array2 = { "1234", "1567", "-2", "computer science" };
+        string[] array3 = { "Russia", "Denmark", "Kazan" };
+
+        int i, count = 0;
+        string[] temp = new string[100];
+
+        for (i = 0; i < array1.Length; i++)
         {
-            
+            if (array1[i].Length <= 3)
+            {
+                temp[count] = array1[i];
+                count++;
+            }
         }
-        for (int i = 0; i < length; i++)
+
+        for (i = 0; i < array2.Length; i++)
         {
-            
+            if (array2[i].Length <= 3)
+            {
+                temp[count] = array2[i];
+                count++;
+            }
         }
-        for (int i = 0; i < length; i++)
+
+        for (i = 0; i < array3.Length; i++)
         {
-            
+            if (array3[i].Length <= 3)
+            {
+                temp[count] = array3[i];
+                count++;
+            }
+        }
+
+        string[] result = new string[count];
+
+        for (i = 0; i < count; i++)
+        {
+            result[i] = temp[i];
+        }
+
+        foreach (string str in result)
+        {
+            Console.WriteLine(str);
         }
     }
 }
+
 
