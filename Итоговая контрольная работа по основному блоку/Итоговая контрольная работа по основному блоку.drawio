@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="2osxYIllMGo-bxddaHuf" name="Страница 1">
-        <mxGraphModel dx="1002" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="704" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -23,7 +23,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="15" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="14">
+                <mxCell id="15" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#000000;labelBackgroundColor=none;" vertex="1" connectable="0" parent="14">
                     <mxGeometry x="-0.01" y="-2" relative="1" as="geometry">
                         <mxPoint x="19" y="2" as="offset"/>
                     </mxGeometry>
@@ -35,18 +35,18 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="17" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="16">
+                <mxCell id="17" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#000000;labelBackgroundColor=none;" vertex="1" connectable="0" parent="16">
                     <mxGeometry x="-0.1067" relative="1" as="geometry">
                         <mxPoint x="-14" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Условие 1:&lt;br&gt;Check lenght &amp;lt;= 3&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="4" value="&lt;font&gt;Условие 1:&lt;br&gt;Check lenght &amp;lt;= 3&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;shadow=0;" vertex="1" parent="1">
                     <mxGeometry x="320" y="400" width="160" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" edge="1" parent="1" source="5" target="8">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Установка&lt;br&gt;array1,&lt;br&gt;array2,&lt;br&gt;array3,&lt;br&gt;i = 0,&lt;br&gt;count = 0,&lt;br&gt;temp array&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                <mxCell id="5" value="&lt;font&gt;Установка&lt;br&gt;array1,&lt;br&gt;array2,&lt;br&gt;array3,&lt;br&gt;i = 0,&lt;br&gt;count = 0,&lt;br&gt;temp array&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
                     <mxGeometry x="350" y="120" width="100" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,44 +55,44 @@
                 <mxCell id="11" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8" target="4">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Цикл 1: &lt;br&gt;array1&lt;br&gt;Iterate&lt;br&gt;through&lt;br&gt;array1&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="8" value="&lt;font&gt;Цикл 1: &lt;br&gt;array1&lt;br&gt;Iterate&lt;br&gt;through&lt;br&gt;array1&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
                     <mxGeometry x="360" y="280" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" edge="1" parent="1" source="12" target="18">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Счёт &lt;br&gt;прибавление на 1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="12" value="Счёт &lt;br&gt;прибавление на 1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontColor=#000000;gradientColor=none;labelBorderColor=none;fillColor=default;shadow=0;strokeColor=default;" vertex="1" parent="1">
                     <mxGeometry x="500" y="480" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" edge="1" parent="1" source="13" target="12">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="Хранение в папке Временно" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
-                    <mxGeometry x="180" y="480" width="120" height="40" as="geometry"/>
-                </mxCell>
                 <mxCell id="23" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" edge="1" parent="1" source="18" target="22">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Цикл 2: &lt;br&gt;array2&lt;br&gt;Iterate&lt;br&gt;through&lt;br&gt;array2&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="63" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="18" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;font&gt;Цикл 2: &lt;br&gt;array2&lt;br&gt;Iterate&lt;br&gt;through&lt;br&gt;array2&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
                     <mxGeometry x="520" y="560" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="22" target="24">
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="22" target="24">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="560" y="770" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="25">
+                <mxCell id="29" value="Да" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#000000;labelBackgroundColor=none;html=1;" vertex="1" connectable="0" parent="25">
                     <mxGeometry x="-0.42" y="1" relative="1" as="geometry">
                         <mxPoint x="-1" y="17" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="22" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Условие 2:&lt;br&gt;Check lenght &amp;lt;= 3&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="22" value="&lt;font&gt;Условие 2:&lt;br&gt;Check lenght &amp;lt;= 3&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;shadow=0;" vertex="1" parent="1">
                     <mxGeometry x="480" y="680" width="160" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" edge="1" parent="1" source="24" target="26">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="Хранение в папке Временно" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="24" value="&lt;span style=&quot;&quot;&gt;&lt;font&gt;Хранение в папке Временно&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
                     <mxGeometry x="500" y="840" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="28" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="26">
@@ -111,7 +111,7 @@
                 <mxCell id="32" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" edge="1" parent="1" source="26" target="31">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="Счёт &lt;br&gt;прибавление на 1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="26" value="Счёт &#10;прибавление на 1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontColor=#000000;labelBorderColor=none;" vertex="1" parent="1">
                     <mxGeometry x="500" y="920" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" edge="1" parent="1">
@@ -125,13 +125,13 @@
                         <mxPoint x="560" y="1120" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="31" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Цикл 3: &lt;br&gt;array3&lt;br&gt;Iterate&lt;br&gt;through&lt;br&gt;array3&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="31" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Цикл 3: &lt;br&gt;array3&lt;br&gt;Iterate&lt;br&gt;through&lt;br&gt;array3&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="1">
                     <mxGeometry x="520" y="1000" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" edge="1" parent="1" source="35" target="36">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="37">
+                <mxCell id="38" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" connectable="0" parent="37">
                     <mxGeometry x="-0.57" y="-1" relative="1" as="geometry">
                         <mxPoint x="1" y="23" as="offset"/>
                     </mxGeometry>
@@ -180,14 +180,35 @@
                 <mxCell id="53" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" edge="1" parent="1" source="49" target="50">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="Копирует значения из Папки Временно в результаты" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="49" value="Копирует значения из Папки Временно в результаты" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
                     <mxGeometry x="500" y="1530" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="54" value="" style="edgeStyle=none;html=1;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" edge="1" parent="1" source="50" target="3">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="Установка через результаты" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="50" value="Установка через результаты" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
                     <mxGeometry x="500" y="1620" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="Хранение в папке Временно" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="1280" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Счёт &lt;br&gt;прибавление на 1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="1360" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="Результат создание массива" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="1440" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Хранение в папке Временно" style="rounded=0;html=1;labelBackgroundColor=default;fontFamily=Comic Sans MS;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="1280" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Счёт &lt;br&gt;прибавление на 1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="1360" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="Результат создание массива" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="1440" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Хранение в папке Временно" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Comic Sans MS;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="480" width="120" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
